@@ -1,0 +1,785 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pillulæ pestilentiales, or, A spiritual receipt for cure of the plague delivered in a sermon preach'd in St. Paul's Church London, in the mid'st of our late sore visitation / by Rich. Kingston ...</title>
+            <author>Kingston, Richard, b. 1635?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 116 KB of XML-encoded text transcribed from 68 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47484</idno>
+            <idno type="STC">Wing K614</idno>
+            <idno type="STC">ESTC R4398</idno>
+            <idno type="EEBO-CITATION">13080486</idno>
+            <idno type="OCLC">ocm 13080486</idno>
+            <idno type="VID">97225</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97225)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 743:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pillulæ pestilentiales, or, A spiritual receipt for cure of the plague delivered in a sermon preach'd in St. Paul's Church London, in the mid'st of our late sore visitation / by Rich. Kingston ...</title>
+                  <author>Kingston, Richard, b. 1635?</author>
+               </titleStmt>
+               <extent>[15], 120 p. : port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by W.G. for Edw. Brewster ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Chronicles, 2nd, VII, 13-14 --  Sermons.</term>
+               <term>Plague --  England --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:97225:1"/>
+            <p>
+               <figure>
+                  <lg>
+                     <l>Vmbra viri facies haec, est Surgentis in altum</l>
+                     <l>Effigiem melius pagina culta dabit, </l>
+                     <l>Ingentes animae ſuperant virtutibus </l>
+                     <l>Artem Vostermanne tuam, vel, Titiane tuam.</l>
+                  </lg>
+                  <figDesc>portrait of Richard Kirby (?)</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:97225:1"/>
+            <p>
+               <hi>PILL<g ref="char:V">Ʋ</g>LAE PESTILENTIALES:</hi> OR A SPIRITUAL RECEIPT for Cure of The Plague.</p>
+            <p>Delivered in a Sermon Preach'd in St. <hi>Paul</hi>'s Church <hi>LONDON,</hi> in the mid'ſt of our late Sore VISITATION.</p>
+            <p>By <hi>Rich. Kingſton</hi> M. A. and Preacher at St. <hi>James Clerken-well.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Numb. 16.46.</hi>
+               </bibl> There is wrath gone out from the Lord, and the Plague is begun.</q>
+            <q>
+               <bibl>
+                  <hi>Numb. 16.48.</hi>
+               </bibl> And <hi>Aaron</hi> ſtood between the Living and the Dead, and the Plague was ſtayed.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. G.</hi> for <hi>Edw. Brewſter</hi> at the <hi>Crane</hi> in St. <hi>Pauls Church-yard.</hi> 1665.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:97225:2"/>
+            <pb facs="tcp:97225:2"/>
+            <head>To the Right Honourable <hi>Sir</hi> JOHN KEELING Knight and Baronet, Lord Chief Juſtice of <hi>ENGLAND.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>WHen I lift mine Eyes from the low and hum<g ref="char:EOLhyphen"/>ble valley of my obſcure fortunes, to that bright ſhining and Eminent hill of Honour, on which the Favour of His Majeſty, the Nobleneſs of Birth, and your many Excel<g ref="char:EOLhyphen"/>lent Virtues have ſeated you; I cannot but lay a ſharp and rigorous Cenſure upon my own
+<pb facs="tcp:97225:3"/>
+Preſumption, that I, ſo much a ſtranger to your Lordſhip, ſhould thus boldly adventure to preſs into your preſence, and to crave your Honourable Patronage of ſo mean a Work; but when your Honour is pleas'd to conſider that Di<g ref="char:EOLhyphen"/>vine Truth's are Subjects worthy of acceptation, though preſented in an Earthen Veſ<g ref="char:EOLhyphen"/>ſel; and <hi>David</hi>'s comfort (in reſcuing his Wives, and reco<g ref="char:EOLhyphen"/>vering the ſpoils from the <hi>Amalekites</hi>) was no whit the ſmaller, although a young man of <hi>Egypt</hi> made way for
+<pb facs="tcp:97225:3"/>
+the diſcovery. I hope to obtain (what I humbly beg) your Honours Pardon.</p>
+            <p>My Lord, this Sermon was Compos'd and Preach'd in the very height of our late dread<g ref="char:EOLhyphen"/>ful Viſitation, when Thou<g ref="char:EOLhyphen"/>ſands dy'd on our right hand, and Ten Thouſand on our left; at which time my imployment by day was viſiting the Sick, and by night burying the Dead; having no time allowed for ſtudy but what I extracted from my natural reſt which may make this Tract more guilty of failings than at
+<pb facs="tcp:97225:4"/>
+another time; my humble re<g ref="char:EOLhyphen"/>queſt therefore to your Lord<g ref="char:EOLhyphen"/>ſhip is, that you would be pleaſed to lay the finger of a charitable conſtruction upon the Scar of my imperfection, and favourably accept this firſt fruit of my labours. So in all humility imploring the God of Majeſty and Mercy to Sanctifie your Heart, Rectifie your Hand, Juſtifie your Soul, and laſtly Crown your Head with eternal Glory; I take the honour to Subſcribe my ſelf,</p>
+            <closer>
+               <signed>Your Lordſhips daily Oratour Rich. Kingſton.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:97225:4"/>
+            <head>To the Right Worſhipful <hi>Joſeph Ayloff</hi> and <hi>George Walſh</hi> Eſquires, two of his Majeſties Juſtices of the Peace for the County of <hi>Middleſex.</hi> And to the Worſhipful <hi>Henry Dacres</hi> and <hi>William Cole</hi> Eſquires; as alſo to his much reſpected friend Mr. <hi>Henry Knight, R. K.</hi> wiſheth the dew of Heaven and the fatneſs of the Earth.</head>
+            <opener>
+               <salute>Right Worſhipful,</salute>
+            </opener>
+            <p>TUtelar Angels are a controverted Theme amongſt Schoolmen, but the favourable influ<g ref="char:EOLhyphen"/>ence of a juſt defence from your Worſhips, hath been an unqueſtionable matter of my experience: which tran<g ref="char:EOLhyphen"/>ſcendent favours, if buried
+<pb facs="tcp:97225:5"/>
+in Oblivion, would be an high impeachment of vera<g ref="char:EOLhyphen"/>city; and not to acknow<g ref="char:EOLhyphen"/>ledge them, having this oc<g ref="char:EOLhyphen"/>caſion, could plead for no diſtance, from down-right ſordidneſs and plain Ingra<g ref="char:EOLhyphen"/>titude.</p>
+            <p>The Work is too ſmall, and the Author too mean to equalize your worth, or merit your Patronage; only 'tis the height of my Ambi<g ref="char:EOLhyphen"/>tion to let the world know that your favours (which as far excel my deſerts as my power to retaliate) have
+<pb facs="tcp:97225:5"/>
+not been beſtowed on an ungrateful Servant. I am not ignorant, that cunning <hi>Bezaliahs</hi> and <hi>Aholiahs</hi> may carve and polliſh the Tem<g ref="char:EOLhyphen"/>ple, yet I am glad that I can but lay one little ſtone: though men of brighter Souls bring their Gold and Jewels to it, yet I hope God will accept of my young Pigeons and Turtle Doves. I may ſay with <hi>St. Peter, Silver and Gold have I none, but what I have I give you;</hi> in all humility beſeeching you to conſider my years,
+<pb facs="tcp:97225:6"/>
+which are but few, and the time I had, which was but ſhort, and my many other ſad occaſions, wherewith in the mean time I was interrupted; and then ac<g ref="char:EOLhyphen"/>cept of this for tryal, as if it were the extract of ſome purer and better wit. The Lord proſper your days, direct your hearts, and bleſs all your undertakings, to the glory of his Name, and your own eternal felicitie: So ever Prayeth</p>
+            <closer>
+               <signed>Your Worſhips in all Duty and Service <hi>Rich. Kingſton.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:97225:6"/>
+            <head>To the Church-Wardens of the Pariſh of St. <hi>James Clerken-Well</hi> for the time being, and to the reſt of the Officers and Inhabi<g ref="char:EOLhyphen"/>tants of the ſame Pariſh: <hi>R. K.</hi> Wiſheth health and happineſs in this life, and Eternal bleſſedneſs in that to come.</head>
+            <opener>
+               <salute>Loving Friends,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T pleaſed the wiſe Diſpo<g ref="char:EOLhyphen"/>ſer of all things, to caſt my lot among you in one of the moſt dreadful Vi<g ref="char:EOLhyphen"/>ſitations that ever <hi>Eng<g ref="char:EOLhyphen"/>land</hi> knew, when the black Horſe of the <hi>Peſtilence,</hi> with Pale Death on his back, pranc'd our Streets at Noon day, and Midnight; at which dreadful (and never to be forgotten) time our ſenſe of Seeing was
+<pb facs="tcp:97225:7"/>
+well-nigh glutted with beholding the ſight of our Diſeaſed and Deceaſed Friends, enough to have extinguiſh'd the optick faculty.</p>
+            <q>
+               <l>No Papers then over our Dores were ſet</l>
+               <l>With Chambers ready furniſh'd to be Let;</l>
+               <l>But a ſad <hi>Lord have mercy upon us,</hi> and</l>
+               <l>A Bloody <hi>Croſs,</hi> as fatal marks did ſtand</l>
+               <l>Preſaging th' noiſome <hi>Peſtilence</hi> within,</l>
+               <l>Was come to take revenge of us for Sin.</l>
+            </q>
+            <p>And as our Eyes might well be dim'd ſo might our Ears be deaf'd with the doleful cryes of the <hi>Poor,</hi> for Food to keep them from Starving; of the <hi>Sick,</hi> for Phyſick to keep them from Dying; and of them that were <hi>Marked,</hi> for Spi<g ref="char:EOLhyphen"/>ritual helps to preſerve them from Periſhing.</p>
+            <q>
+               <l>We well might hear of Death there was ſuch plenty,</l>
+               <l>One Bell at once, was fain to Ring for twenty:</l>
+               <l>No Clocks were heard to ſtrike upon their Bells,</l>
+               <l>Cauſe nothing Rung, but Death-lamenting knells.</l>
+            </q>
+            <p>
+               <pb facs="tcp:97225:7"/>Which dreadful noiſes ſo terrified ſome, and affrighted all, that men knew not what courſe to ſteer to pre<g ref="char:EOLhyphen"/>ſerve themſelves from this wounding ſhaft.</p>
+            <q>
+               <l>Some by their fear to go to Church deburr'd,</l>
+               <l>Anon are carri'd Dead into the Yard:</l>
+               <l>And Churches new with too much Burial fed,</l>
+               <l>Fear'd they ſhould have no meeting but of Dead<g ref="char:punc">▪</g>
+               </l>
+            </q>
+            <p>This Poyſon'd Arrow of the <hi>Peſtilence</hi> (eſpecially when it was firſt foot among us) wounded ſo ſuddenly and ſharply, that we could ſcarce be reſolved whether 'twas Sickneſs or Death it ſelf that aſſaulted us; for many lying down to repoſe in the Evening, made their ſleep true kin to Death, by dying before the Morning.</p>
+            <q>
+               <l>—Ah who would then defer</l>
+               <l>A preparation for this meſſenger!</l>
+            </q>
+            <p>But not to detain you longer with a large Epiſtle to a little Book, be pleas'd to accept thereof as a Teſti<g ref="char:EOLhyphen"/>mony
+<pb facs="tcp:97225:8"/>
+of my ſincere love to you, which ſhall always be accompanied with my hearty Prayers for you, that our mer<g ref="char:EOLhyphen"/>ciful God would be pleas'd to with<g ref="char:EOLhyphen"/>draw his Sin-revenging Scourge, which is ſtill amongſt us, and charge his Angels to guard your perſons from future dangers; and give you his holy Spirit to guide your Souls in the Path of Holineſs here, and bring you to the Palace of Happineſs hereafter.</p>
+            <closer>
+               <signed>So prayeth The earneſt deſirer of your Souls welfare Rich. Kingſton.</signed>
+               <dateline>
+                  <hi>From my Study at St.</hi> James Clerkenwell. <date>Octob. <hi>the</hi> 18. 1665.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:97225:8"/>
+            <head>PILLULAE PESTILENTIALES.</head>
+            <epigraph>
+               <bibl>
+                  <hi>2 Chron. cap. 7. v. 13, 14.</hi>
+               </bibl>
+               <q>
+                  <p>—If I ſend Peſtilence among my people.</p>
+                  <p>If my people which are called by my name, ſhall humble themſelves, and pray, and ſeek my face, and turn from their wicked ways: Then will I hear from heaven and will forgive their Sin, and will heal their Land.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">G</seg>OD, that from all <hi>Eter<g ref="char:EOLhyphen"/>nity</hi> was happy in him<g ref="char:EOLhyphen"/>ſelf, created the World and Man the moſt <hi>glorious</hi> part
+<pb n="2" facs="tcp:97225:9"/>
+of it, not out of <hi>neceſſity,</hi> but a <hi>diffuſive Goodneſs,</hi> by which he would have ſome <hi>Beeings</hi> repre<g ref="char:EOLhyphen"/>ſent his <hi>Supremacy,</hi> and receive the Style of the <hi>Sons of the moſt High.</hi> Other Artificers either out of <hi>Ambition</hi> or <hi>Profit,</hi> tranſmit to the World their Skill and Knowledge, only <hi>He</hi> (induced by a <hi>charity</hi> propor<g ref="char:EOLhyphen"/>tionable to his own <hi>Nature</hi>) re<g ref="char:EOLhyphen"/>ſolved to bring light out of dark<g ref="char:EOLhyphen"/>neſs, and conſtitute a <hi>Lieute<g ref="char:EOLhyphen"/>nant</hi> upon Earth that ſhould largely ſpeak the <hi>grandeur</hi> of his <hi>Maker.</hi> Thus <hi>Adam</hi> ſprung bright and glorious out of the <hi>Chaos,</hi> imbued with thoſe per<g ref="char:EOLhyphen"/>fections which We (his poſte<g ref="char:EOLhyphen"/>rity) ſince his tranſgreſſion can never hope for. His Patrimony
+<pb n="3" facs="tcp:97225:9"/>
+was large, and he might have left it to his Heirs, who now by <hi>ſad experience</hi> find, that he not only became <hi>bankrupt</hi> him<g ref="char:EOLhyphen"/>ſelf, but <hi>entayled</hi> his miſery up<g ref="char:EOLhyphen"/>on them. He came into the World its <hi>Lord and Maſter,</hi> and left his children Peaſants and Vaſſals; and the truth is, with ſo much <hi>unhappy fertility</hi> they have improved his Crime, that being but <hi>one</hi> at <hi>firſt,</hi> the <hi>Eating the forbidden Fruit,</hi> it's now become <hi>infinite,</hi> and able to puz<g ref="char:EOLhyphen"/>zle the <hi>Arithmetick of Angels.</hi> Upon this ſcore one might juſtly wonder that God ſhould ſay, <hi>IF I ſend the Peſtilence amongst my People. If</hi> is a Word of Uncer<g ref="char:EOLhyphen"/>tainty, and argues an irreſolu<g ref="char:EOLhyphen"/>tion: One would rather have
+<pb n="4" facs="tcp:97225:10"/>
+expected the Lord ſhould have ſworn <hi>by himſelf,</hi> that ſince this <hi>Darling,</hi> this <hi>Pe<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ker</hi> of his <hi>divine Excellencies,</hi> will ever be abaſing them, and chooſe rather the <hi>Livery of the Devil,</hi> than that <hi>beautiful Veſt of Inno<g ref="char:EOLhyphen"/>cence,</hi> with which he came clo<g ref="char:EOLhyphen"/>thed into <hi>Paradice,</hi> that there<g ref="char:EOLhyphen"/>fore he would ſend his <hi>Plenipo<g ref="char:EOLhyphen"/>tentiary</hi> the <hi>Plague,</hi> and without compaſſion cut off his Favourite. But by this doubtful way of Ex<g ref="char:EOLhyphen"/>preſſion, we are taught how un<g ref="char:EOLhyphen"/>willing he is to give his <hi>juſtice</hi> a full draught, which he will and muſt do where <hi>Impenitency ſtops the Progreſs of his Mercy.</hi> The <hi>Heathen</hi> could ſay,<note place="margin">Val. Max.</note> 
+               <hi>Lento gradu ad vindictam ſui divina pro<g ref="char:EOLhyphen"/>cedit ira, tarditatemque ſupplicii
+<pb n="5" facs="tcp:97225:10"/>
+gravitate compenſat.</hi> We ſhall find this Truth cleer, if we conſi<g ref="char:EOLhyphen"/>der the Series of his proceed<g ref="char:EOLhyphen"/>ings againſt <hi>Sin. Adam</hi> no ſooner ſins, but is whipp'd out of <hi>Eden. Cain</hi> kills his brother, and becoms a Fugitive. <hi>Sodom</hi> grows <hi>luxu<g ref="char:EOLhyphen"/>rious</hi> and burns with <hi>un-natural Luſts,</hi> and fire deſcends from heaven to extinguiſh thoſe <hi>helliſh flames. Jeruſalem,</hi> a <hi>City</hi> grac'd with more privileges than any in the <hi>World,</hi> as being the place in which <hi>God</hi> would have his name in a more particular man<g ref="char:EOLhyphen"/>ner called upon; the <hi>Seat of the Temple,</hi> and the <hi>Metropolis</hi> of that Nation which he owned above all others; <hi>Jeruſalem,</hi> I ſay, that heard the Prophets, yea <hi>Chriſt himſelf</hi> preach, and ſaw his <hi>Mi<g ref="char:EOLhyphen"/>racles,</hi>
+               <pb n="6" facs="tcp:97225:11"/>
+is now, for her <hi>Sins</hi> no<g ref="char:EOLhyphen"/>thing but a heap of <hi>Rubbiſh;</hi> and as <hi>Adrichomius</hi> obſerves, <hi>One may ſeek</hi> Jeruſalem <hi>in</hi> Jeru<g ref="char:EOLhyphen"/>ſalem <hi>and not find her.</hi> The <hi>Eaſtern Church,</hi> whoſe <hi>coura<g ref="char:EOLhyphen"/>grous Martyrs,</hi> whoſe <hi>General Councels,</hi> whoſe <hi>Prelates</hi> (thoſe burning and ſhining lights) are ſo highly celebrated, is now for her <hi>Arrian Hereſie</hi> and other <hi>Sins</hi> with which ſhe abounded, en<g ref="char:EOLhyphen"/>ſlaved under the <hi>Turkiſh Yoke,</hi> and hourly tormented with the Impieties of the <hi>Impoſtor Maho<g ref="char:EOLhyphen"/>met.</hi> Neither can We of the <hi>Latin-Church</hi> here in <hi>Europe,</hi> ſay our Sins have been hid, and <hi>Divine Juſtice</hi> as it were aſleep during their Committing. In what a field of Miſeries hath the
+<pb n="7" facs="tcp:97225:11"/>
+whole <hi>German Empire</hi> been this laſt Century? Nay, if we have a mind to look nigher home, what a calamitous Scene can <hi>Great Britain</hi> and <hi>Ireland</hi> ſhow you for twenty years, where <hi>ful<g ref="char:EOLhyphen"/>neſs of Bread</hi> and a <hi>long Peace,</hi> begot <hi>ſtiff Necks</hi> and <hi>obdurate hearts;</hi> and theſe pull'd down the former, and this preſent deſtruction: ſo that We may well conclude, that there is no Nation or Countrey ſo graced with privileges, ſo crowned with bleſſings, and ſo beloved by God, but <hi>Sin</hi> will beget a <hi>deadly quarrel</hi> between them, and cauſe the Subverſion of the moſt flou<g ref="char:EOLhyphen"/>riſhing <hi>States</hi> and <hi>Empires.</hi> Let the <hi>Epicure</hi> aſcribe the alterati<g ref="char:EOLhyphen"/>ons unto Fortune; the <hi>Stoick</hi> to
+<pb n="8" facs="tcp:97225:12"/>
+Fate; <hi>Plato</hi> and <hi>Pythagoras,</hi> with the learned Stateſman <hi>Bodin,</hi> to Number; <hi>Ariſtotle</hi> to a Sym<g ref="char:EOLhyphen"/>metry or Diſproportion; <hi>Coper<g ref="char:EOLhyphen"/>nicus</hi> to the Motion of the Cen<g ref="char:EOLhyphen"/>tre; and <hi>Cardane,</hi> with the Gene<g ref="char:EOLhyphen"/>rality of <hi>Aſtrologers,</hi> to the Malig<g ref="char:EOLhyphen"/>nant Influence of the Errattick Stars. <hi>We</hi> that have bin otherwiſe built up in the <hi>moſt Holy Faith,</hi> are taught by the Divine Oracles that <hi>Sin only cauſes this Controver<g ref="char:EOLhyphen"/>ſie between God and Man,</hi> and therefore whileſt they (like <hi>Ixion</hi> in the Fable) embrace on<g ref="char:EOLhyphen"/>ly a Cloud of palbable darkneſs inſtead of the <hi>Juno</hi> of bright and clear Truth, let us, ſince we know the True cauſe of <hi>Gods wrath,</hi> endevour to avoid it by newneſs of life, which is <hi>holy<g ref="char:EOLhyphen"/>neſs</hi>
+               <pb n="9" facs="tcp:97225:12"/>
+in the <hi>Inward Man.</hi> And in<g ref="char:EOLhyphen"/>deed it is but fit if <hi>we</hi> will offend, that <hi>God</hi> ſhould right himſelf.</p>
+            <q>
+               <l>—Nec enim Lex aequior ulla eſt,</l>
+               <l>Quam necis Artifices Arte perire ſua.</l>
+            </q>
+            <p>We have Sinned, and God juſtly ſtrikes our <hi>heads</hi> with <hi>gid<g ref="char:EOLhyphen"/>dineſs,</hi> drawes <hi>paleneſs</hi> on our <hi>faces,</hi> and dyes our <hi>Skins</hi> with <hi>purple.</hi> The Prophet <hi>Amos</hi> ſaith,<note place="margin">C. 4. v. 10.</note> God ſent the <hi>Peſtilence</hi> among the <hi>Iſraelites</hi> after the manner of <hi>Aegypt,</hi> and he hath now ſent the <hi>Plague</hi> amongſt the <hi>Engliſh</hi> after the manner of <hi>Iſrael. Iſ<g ref="char:EOLhyphen"/>rael</hi>'s Calamity in the time of King <hi>David,</hi> is <hi>England</hi>'s Caſe in the Reign of King <hi>Charles.</hi>
+            </p>
+            <q>
+               <l>—Facta eſt narratio de te</l>
+               <l>Anglia mutato nomine cum numero.</l>
+            </q>
+            <p>
+               <pb n="10" facs="tcp:97225:13"/>Change but the Names of the <hi>Countrey</hi> with the Circuit, to<g ref="char:EOLhyphen"/>gether with the time that <hi>Plague</hi> laſted, and the number of peo- it conſumed in that ſpace, and we are parallel; <hi>Repentance</hi> was their only <hi>Balſam,</hi> and it muſt be ours, for as the great Biſhop of <hi>Hippo</hi> ſayes,<note place="margin">St. Auguſt.</note> 
+               <q>Mutet vitam qui vult accipere vitam.</q>
+We muſt by <hi>reſolution</hi> of <hi>better obedience,</hi> blunt the Edge of that <hi>Sword</hi> that <hi>cauſes</hi> ſo great a <hi>Mortality</hi> amongſt us.</p>
+            <p>And thus I come to the words of my Text, <hi>If I ſend the Peſti<g ref="char:EOLhyphen"/>lence amongst my people.</hi> In which Words we have a Gracious pro<g ref="char:EOLhyphen"/>miſe of God unto his Church, or
+<pb n="11" facs="tcp:97225:13"/>
+a <hi>direct Anſwer</hi> to <hi>Solomon</hi>'s <hi>Pray<g ref="char:EOLhyphen"/>er</hi> which he made at the finiſh<g ref="char:EOLhyphen"/>ing of the <hi>Temple,</hi> aſſuring <hi>Pe<g ref="char:EOLhyphen"/>nitent Souls,</hi> that if they turn from the <hi>Evil</hi> of their <hi>ways,</hi> he will turn from the <hi>Evil</hi> of his <hi>wrath,</hi> and free them from de<g ref="char:EOLhyphen"/>ſtruction; <hi>I will hear from heaven and forgive their Sins.</hi> Where we may obſerve four particulars;</p>
+            <p>Firſt, a <hi>Diſeaſe,</hi> the <hi>Peſti<g ref="char:EOLhyphen"/>lence; ſi miſerò Peſtilentiam in Po<g ref="char:EOLhyphen"/>pulum meum.</hi>
+            </p>
+            <p>Secondly, The <hi>Cauſe</hi> of the Diſeaſe, <hi>Sin;</hi> implyed in theſe words, <hi>and turn from their wicked ways.</hi>
+            </p>
+            <p>Thirdly, The <hi>Medicine</hi> to be uſed, which is Compoun<g ref="char:EOLhyphen"/>ded of three <hi>Ingredients.</hi>
+            </p>
+            <list>
+               <pb n="12" facs="tcp:97225:14"/>
+               <item>1. <hi>Humility.</hi>
+               </item>
+               <item>2. <hi>Prayer.</hi>
+               </item>
+               <item>3. <hi>Repentance.</hi>
+               </item>
+            </list>
+            <p>Fourthly, The <hi>Phyſician</hi> pre<g ref="char:EOLhyphen"/>ſcribing this <hi>Medicine,</hi> God. <hi>I will hear from heaven,</hi> &amp;c.</p>
+            <p>I begin with the <hi>Diſeaſe,</hi> of which I need ſay but <hi>little,</hi> ſince it ſpeaks ſo <hi>much</hi> for it <hi>ſelf.</hi> But ſomething I muſt ſay, leſt I ſeem to paſs that over that <hi>paſſeth by few in a houſe or City where it comes.</hi> The word is ſome<g ref="char:EOLhyphen"/>times rendred <hi>Peſtilence,</hi> and ſometimes <hi>Plague;</hi> from the La<g ref="char:EOLhyphen"/>tine word <hi>Plaga,</hi> which ſigni<g ref="char:EOLhyphen"/>fies a <hi>Stroke:</hi> but by reaſon of the Streightneſs of our <hi>Engliſh</hi>
+               <pb n="13" facs="tcp:97225:14"/>
+Tongue, they are <hi>promiſcuouſly</hi> taken. The <hi>Plague</hi> in other Languages extends further, and notes any <hi>extraordinary Stroke</hi> that comes from God; the Pro<g ref="char:EOLhyphen"/>phets under that <hi>Word</hi> contain theſe four, <hi>Famine, Peſtilence, Wild Beaſts,</hi> and the <hi>Sword;</hi> which <hi>per eminentiam,</hi> are called the <hi>four plagues of God.</hi> 'Tis true, God creates every thing, both <hi>light</hi> and <hi>darkneſs,</hi>
+               <note place="margin">Iſa 45.7.</note> 
+               <hi>good</hi> and <hi>evil,</hi> as the Prophet ſpeaks; but becauſe <hi>Strokes,</hi> if they be pri<g ref="char:EOLhyphen"/>vate, particular, or ordinary, have no great operation on us; we obſerve their <hi>ſecond,</hi> and not their <hi>firſt cauſes,</hi> and ſo we nei<g ref="char:EOLhyphen"/>ther <hi>reverence God's Juſtice, nor diſcern his hand, nor fear his pow<g ref="char:EOLhyphen"/>er:</hi> Upon this Score, when mens
+<pb n="14" facs="tcp:97225:15"/>
+ſins <hi>cry aloud,</hi> and (peircing the Heavens) mount to the very <hi>throne</hi> of God; it is fit likewiſe that God's <hi>loud Juſtice</hi> ſhould peirce the heavens,<note place="margin">Heb. 1.21.</note> deſcend up<g ref="char:EOLhyphen"/>on man, and like the voice of <hi>Sinai,</hi> make poor mortals quake and fear. The <hi>plague</hi> is a <hi>Stroke</hi> able to extort from any man the <hi>confeſſion</hi> of <hi>Pharaoh's</hi> Enchan<g ref="char:EOLhyphen"/>ters,<note place="margin">Ex. 8.19.</note> 
+               <hi>This is the Finger of God;</hi> It's an <hi>Arrow</hi> of his <hi>own ſhooting,</hi>
+               <note place="margin">2 Sam. 24.15.</note> and may better be called <hi>Morbus Sacer,</hi> then the <hi>Falling Sickneſs.</hi> And therefore in our Language we ſtyle the <hi>Peſtilence</hi> the <hi>Viſita<g ref="char:EOLhyphen"/>tion</hi> of God, and the <hi>Tokens</hi> thereof <hi>God's Marks,</hi> and upon our Dores write <hi>LORD HAVE MERCY <g ref="char:V">Ʋ</g>PON <g ref="char:V">Ʋ</g>S:</hi> By which we clearly confeſs, whileſt the
+<pb n="15" facs="tcp:97225:15"/>
+               <hi>Angel</hi> executeth <hi>divine wrath,</hi> we all ſtand at <hi>God's Mercy.</hi>
+            </p>
+            <p>And thus I come from the <hi>Diſeaſe</hi> it ſelf to the <hi>Cauſe</hi> of it, which is <hi>God's anger,</hi> enflamed by <hi>Sin.</hi> I know there are ſome, that following the Sentiments of Phyſicians, will needs aſcribe it to the <hi>Infection</hi> of the <hi>Aire,</hi> to <hi>groſs</hi> and <hi>unwholſome Diet,</hi> or to the <hi>predominancy</hi> of <hi>corrupt hu<g ref="char:EOLhyphen"/>mours:</hi> But <hi>Phyſicians</hi> may be excuſed if they ſay ſomething when they ſee an <hi>Angel.</hi> As I will not <hi>deny</hi> but in all <hi>Diſeaſes</hi> there may be ſomething of <hi>natu<g ref="char:EOLhyphen"/>ral,</hi> ſo I may likewiſe affirm, there is in this ſomething <hi>divine</hi> and above nature.</p>
+            <p n="1">
+               <pb n="16" facs="tcp:97225:16"/>1. For the natural part.</p>
+            <p>Firſt, The <hi>Infected Aire</hi> may contribute very much, and therefore we read that by <hi>caſting the Aſhes of the Furnace towards heaven,</hi>
+               <note place="margin">Ex. 9.8.</note> 
+               <hi>the Aire became Infected, and the plague of Botches and Blains ſpread it ſelf over</hi> Aegypt.</p>
+            <p>Secondly, <hi>Corrupt humours</hi> may do the like, for to them doth King <hi>David</hi> aſcribe the <hi>cauſe</hi> of his Malady, when he complains that <hi>his Moiſture in him was corrupt,</hi>
+               <note place="margin">Pſal. 32.4.</note> 
+               <hi>dryed up and turned into the drought of Summer.</hi>
+            </p>
+            <p>Thirdly, <hi>The contagion come<g ref="char:EOLhyphen"/>ing from the Sick.</hi> Thus we ſee by the <hi>Jewiſh Law,</hi> the <hi>Leprous perſon</hi> for fear of <hi>Infecting others</hi> was commanded to cry aloud <hi>
+                  <g ref="char:V">Ʋ</g>nclean,</hi>
+               <note place="margin">Lev. 13.45, 46, 52.</note> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>nclean;</hi> by which
+<pb n="17" facs="tcp:97225:16"/>
+he gave the Sound warning they ſhould not approch nigh for <hi>fear of Contagion.</hi> He was beſides to have his <hi>dwelling alone;</hi> and the <hi>garments</hi> he wore, were to be <hi>waſhed,</hi> and if the <hi>plague</hi> was ſpread in them, the <hi>Prieſt</hi> was to burn them. Yea, the very <hi>houſe walls</hi> in which the <hi>Leper</hi> dwelt were to be <hi>ſcraped,</hi> and in ſome caſes the <hi>houſe</hi> it ſelf to be <hi>pulled down.</hi>
+            </p>
+            <p>The Learned <hi>Fernelius</hi> more judiciouſly confeſſes this Diſeaſe hath a <hi>hidden beginning,</hi> ſome ſecret principle that <hi>occultly wounds;</hi> and we may aſſure our ſelves, that though things <hi>ab extrâ</hi> contribute to its <hi>progreſſion,</hi> yet the real cauſe is the <hi>latent Corruption</hi> within us.</p>
+            <q>
+               <pb n="18" facs="tcp:97225:17"/>
+               <l>
+                  <note place="margin">Sir <hi>Tho. More</hi> Epigr.</note>Nugamur mortem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> procul, procul, eſſe putamus,</l>
+               <l>At mediis latet haec abdita viſceribus.</l>
+            </q>
+            <p>But let us come to the <hi>ſuper<g ref="char:EOLhyphen"/>natural Cauſe</hi> of this Diſeaſe, and that will not require a <hi>Phy<g ref="char:EOLhyphen"/>ſician</hi> ſo much as a <hi>Divine:</hi> And I ſuppoſe many of them think it a difficult point, that they go into the <hi>Country</hi> to ſtudy it, and by their <hi>abſence</hi> expound S. <hi>Paul</hi>'s words thus, <hi>We preach not our ſelves, i. e.</hi> our Curates (or who elſe will) preach for us. But to the <hi>ſupernatural Cauſe,</hi> the <hi>Scripture</hi> obſerves it as a <hi>crime</hi> in King <hi>Aſa,</hi> that in the time of his <hi>Sickneſs</hi> he look'd more after the <hi>Phyſician</hi> than after <hi>God.</hi> He did not <hi>conſider</hi> the <hi>Infirmity</hi> of his <hi>Soul</hi> was to be <hi>healed</hi> as well as that of his <hi>body,</hi> and there<g ref="char:EOLhyphen"/>fore
+<pb n="19" facs="tcp:97225:17"/>
+look'd for <hi>natural remedies</hi> only. But if we would avoid his <hi>fault,</hi> we muſt acknowledge the <hi>hand of God</hi> in <hi>this Sickneſs,</hi> and ſomething <hi>above nature.</hi> For if we obſerve the way of <hi>inflict<g ref="char:EOLhyphen"/>ing</hi> it, we ſhall find it oftentimes done by <hi>Spirits:</hi> Thus we ſee an <hi>Angel, a deſtroying Angel</hi> in the <hi>plague of</hi> Aegypt, <hi>Exod.</hi> 12.13. Another in the <hi>plague</hi> that <hi>de<g ref="char:EOLhyphen"/>ſtroyed</hi> the hoſt of the <hi>Aſſyrians</hi> under <hi>Senacherib:</hi> We find a third in the <hi>plague</hi> at <hi>Jeruſalem</hi> under King <hi>David,</hi> and St. <hi>John</hi> in the <hi>Revelations</hi> brings in a fourth pouring his <hi>Vial</hi> upon Earth,<note place="margin">Rev. 16.2.</note> and there fell a <hi>noiſome plague upon Man and Beaſt.</hi> So that <hi>God</hi> is the great <hi>Agent</hi> in this <hi>Ca<g ref="char:EOLhyphen"/>lamity.</hi> But how? Not <hi>willingly,</hi>
+               <pb n="20" facs="tcp:97225:18"/>
+his anger muſt firſt be <hi>enkindled</hi> by our <hi>Sin;</hi> for as the <hi>Pſalmiſt</hi> ſaith,<note place="margin">Pſal. 106.</note> 
+               <hi>They provoked him to anger with their Inventions, and then the plague brake in amongst them.</hi> Thus <hi>Deut.</hi> 28.21. God ſays, <hi>Becauſe of the wickedneſs of thy doing, whereby thou haſt forſaken me, the Lord ſhall make the Peſti<g ref="char:EOLhyphen"/>lence cleave unto thee.</hi> And <hi>Ho<g ref="char:EOLhyphen"/>ſea</hi> cries,<note place="margin">Hoſ. 14.6.</note> 
+               <hi>O Iſrael return unto the Lord thy God, for thou haſt fallen by thine Iniquity!</hi> The <hi>perdidit te</hi> in the <hi>Prophet</hi> doth not proceed from <hi>neighbours</hi> become <hi>Enemies,</hi> or from the <hi>Locuſt, Caterpiller, Mildews,</hi> and ſuch other things, as cauſe <hi>Famine and Peſtilence;</hi> but from the <hi>corruption</hi> and <hi>Sin</hi> hatch'd in theſe <hi>Iſraelites;</hi> and therefore in the ſecond verſe he
+<pb n="21" facs="tcp:97225:18"/>
+counſels them as the only way to recover their former happi<g ref="char:EOLhyphen"/>neſs, to <hi>Take with them words and turn to the Lord, and ſay un<g ref="char:EOLhyphen"/>to him, take away all Iniquity, and receive us graciouſly.</hi> So that <hi>ſin</hi> which is the <hi>plague</hi> of the <hi>Soul,</hi> begets the <hi>Plague</hi> of the <hi>Body.</hi> This viperous Mother brings forth a child ſo like it ſelf, that it's hard to know the one for the other. I ſhall ſhew you in a few particulars their <hi>Similitude</hi> and Agreement.</p>
+            <p>Firſt, They are <hi>alike</hi> in <hi>Na<g ref="char:EOLhyphen"/>ture:</hi> The <hi>Corporeal Peſtilence</hi> aims not at the more <hi>ignoble parts</hi> of the body, but at the <hi>very Source of Life,</hi> the <hi>vital Spi<g ref="char:EOLhyphen"/>rits,</hi> and by its <hi>contagious quality</hi> oppreſſes them: The <hi>like</hi> doth
+<pb n="22" facs="tcp:97225:19"/>
+               <hi>Sin</hi> by its <hi>ſecret Malignancy</hi> to the <hi>Soul.</hi> It blinds the underſtand<g ref="char:EOLhyphen"/>ing, corrupts the Will, and ſo <hi>poiſons</hi> all our <hi>Intellectual faculties</hi> that we cannot ſee the <hi>light</hi> of <hi>Faith,</hi> or ardently love God, or do any other <hi>Act</hi> that may ſpeak us <hi>living</hi> Chriſtians, and in a <hi>State of Grace.</hi>
+            </p>
+            <p>Secondly, They are <hi>alike</hi> in their <hi>Infection;</hi> The reaſon why we ſhut people up that are Infe<g ref="char:EOLhyphen"/>cted, and avoid their Company, is, becauſe they <hi>eaſily</hi> commu<g ref="char:EOLhyphen"/>nicate their <hi>Diſeaſe,</hi> to thoſe that are in <hi>health;</hi> it is ſo with <hi>ſin,</hi> it <hi>inſenſibly</hi> creeps upon us. The <hi>often</hi> ſeeing wicked men re<g ref="char:EOLhyphen"/>peat their <hi>crimes,</hi> firſt takes from us the <hi>hatred</hi> we ſhould bear them, and afterward by <hi>undiſ<g ref="char:EOLhyphen"/>cerned
+<pb n="23" facs="tcp:97225:19"/>
+progreſſions</hi> ſo far work on us, that we begin to <hi>love</hi> and <hi>commit</hi> the ſame. The <hi>Hiſtorian</hi> obſerves, That <hi>Auguſtus</hi> ſoon perceived the Inclination of his two Daughters by the <hi>Company</hi> they kept: The one affected none but the <hi>grave Senators</hi> and <hi>worthy perſonages</hi> of <hi>Rome;</hi> and the Other none but the <hi>looſe</hi> and <hi>debauch'd Gallants.</hi> We cannot touch pitch but we muſt be defi<g ref="char:EOLhyphen"/>led; and we cannot converſe with <hi>wicked men,</hi> but we ſhall be <hi>tainted</hi> with their Impurities.</p>
+            <p>Thirdly, They are <hi>alike dif<g ref="char:EOLhyphen"/>fuſive. Thucidides</hi> in his Deſcrip<g ref="char:EOLhyphen"/>tion of the <hi>Plague of Athens,</hi> tells us it began in <hi>Africa;</hi> march'd from <hi>Aethiopia</hi> into <hi>Aegypt,</hi> and ſo took its <hi>courſe</hi> for <hi>Athens,</hi>
+               <pb n="24" facs="tcp:97225:20"/>
+which was a vaſt progreſs. And hath not <hi>Sin done the like?</hi> Hath not the <hi>Sin</hi> of <hi>Adam</hi> in <hi>Paradice</hi> ſpread it ſelf over the whole World, and ſo ſeized upon the maſs of <hi>Mankind,</hi> that we muſt all confeſs we are <hi>
+                  <g ref="char:V">Ʋ</g>nclean,</hi> and there is none of us <hi>righteous,</hi> no not one.</p>
+            <p>Fourthly, They are both <hi>ter<g ref="char:EOLhyphen"/>rible.</hi> What a diſmal ſight is it to ſee an Army enter by force in<g ref="char:EOLhyphen"/>to a pleaſant City, and there in a moment by the <hi>licentious fury</hi> of the <hi>Soldiers,</hi> view thoſe <hi>ſtreets floating with the blood of the Inhabitants,</hi> which in time of Peace uſed to be <hi>ſtrewed with flowers?</hi> Yet when heat of <hi>blood</hi> is over, ſome <hi>mercy</hi> is uſually hoped for, and many times ob<g ref="char:EOLhyphen"/>tained.
+<pb n="25" facs="tcp:97225:20"/>
+But the <hi>Plague,</hi> like ano<g ref="char:EOLhyphen"/>ther <hi>Attila,</hi> the <hi>Scourge of God,</hi> ſweeps all before it, and <hi>ſeldom gives Quarter. Sin</hi> does the <hi>like,</hi> yea, in a <hi>more terrible</hi> manner, for it erects its <hi>Trophies</hi> upon the <hi>ruine of Souls:</hi> The deſtruction of the body is but a <hi>momentary pain,</hi> but that of the Soul is <hi>commenſurate</hi> to the <hi>duration</hi> of it, which is to all <hi>Eternity.</hi> How much reaſon have we therefore to pray to be delivered from this <hi>Executioner,</hi> that like another <hi>Nero</hi> loves to <hi>perpetuate miſery,</hi> and ſtrikes a wretch, <hi>ut ſentiat ſe mori.</hi>
+            </p>
+            <p>Fifthly, They are alike in their <hi>Symptomes.</hi> When a man begins to feel ſome diſtemper in his <hi>head, ſtomach, belly,</hi> or other
+<pb n="26" facs="tcp:97225:21"/>
+parts, though we apprehend ſome danger, yet we think him not paſt the benefit of <hi>Phyſick,</hi> and a poſſibility of <hi>Recovery;</hi> but if once his body begin to be <hi>pur<g ref="char:EOLhyphen"/>pled,</hi> and the <hi>plague ſpots</hi> diſco<g ref="char:EOLhyphen"/>ver their diſmal hue, we then quit all hopes, and think no<g ref="char:EOLhyphen"/>thing leſs than a <hi>miracle</hi> can re<g ref="char:EOLhyphen"/>cover him: <hi>Sin</hi> alſo hath her <hi>ſpots,</hi> and they are as ill boad<g ref="char:EOLhyphen"/>ing to the <hi>Soul</hi> as the other to the <hi>body;</hi>
+               <note place="margin">V. 23.</note> and therefore St. <hi>Jude</hi> in his <hi>General Epiſtle</hi> ſtyles wick<g ref="char:EOLhyphen"/>ed men <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ſpots in their feaſts of Charity.</hi>
+            </p>
+            <p>Laſtly, They are both of a <hi>quick diſpatch.</hi> Other <hi>Diſeaſes</hi> ſeem to give us ſome <hi>warning</hi> that we may <hi>ſet our houſe in order,</hi> and by <hi>repentance</hi> blot out the
+<pb n="27" facs="tcp:97225:21"/>
+               <hi>Score</hi> of our <hi>ſins prodigality;</hi> but the <hi>peſtilential ſword,</hi> like the <hi>Italian Stilletto,</hi> carries <hi>death</hi> up<g ref="char:EOLhyphen"/>on the <hi>point,</hi> and at its <hi>firſt en<g ref="char:EOLhyphen"/>trance,</hi> ſummons the <hi>wounded</hi> to his <hi>Funeral;</hi> ſo that we may now ſing in a mournful Dirge
+<q>
+                  <l>Our pleaſures ceaſe, our joys are flying,</l>
+                  <l>Death is alive, but Life is dying.</l>
+               </q>
+Hence it is that <hi>Galen</hi> calls it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> becauſe of its <hi>Mortal qua<g ref="char:EOLhyphen"/>lity;</hi> and <hi>Hippocrates</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> be<g ref="char:EOLhyphen"/>cauſe of its <hi>ſpreading nature.</hi> This <hi>deadly diſeaſe,</hi> we ſee, lays <hi>heaps upon heaps,</hi> and if the <hi>Almighty power</hi> puts not a ſtop to its vio<g ref="char:EOLhyphen"/>lent proceedings, it will in a ſhort time ſcarce leave living e<g ref="char:EOLhyphen"/>nough to bury the dead. Where
+<pb n="28" facs="tcp:97225:22"/>
+God gives it a Commiſſion it runs like fire in a Corn field. That paſſage in <hi>Samuel</hi> is very remark<g ref="char:EOLhyphen"/>able,<note place="margin">2 Sam. 24.15.</note> where it is ſaid, <hi>So the Lord ſent a Peſtilence upon Iſrael from the Morning even to the time appointed.</hi> Some think this <hi>ap<g ref="char:EOLhyphen"/>pointed time</hi> was <hi>ſix hours,</hi> and of this opinion is St.<note n="*" place="margin">
+                  <hi>Super</hi> Pſal. 37.</note> 
+               <hi>Ambroſe;</hi> 
+               <note n="*" place="margin">quaeſt. 37</note> 
+               <hi>Theodoret,</hi> and the <hi>Jewiſh</hi> Hi<g ref="char:EOLhyphen"/>ſtorian <hi>Joſephus:</hi> Others think this <hi>appointed time</hi> was <hi>until night,</hi> and that at the beginning of the <hi>Evening Sacrifice</hi> it ceaſed, which St. <hi>Hierome</hi> followes:<note place="margin">V. Caſp. Sanctium in<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l.</note> Others (with <hi>Toſtatus Abulenſis</hi>) think it laſted <hi>three dayes.</hi> However all agree that it was but a <hi>ſhort ſpace,</hi> in which this <hi>Tragedy</hi> was acted, although the <hi>quamdiù</hi> is not cer<g ref="char:EOLhyphen"/>tain. Upon this account the
+<pb n="29" facs="tcp:97225:22"/>
+               <hi>Septuagint</hi> reads the Words <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>If I ſend Death amongst my people;</hi> to ſignifie, <hi>other diſeaſes</hi> by <hi>Medical herbs</hi> and the <hi>skill</hi> of <hi>Phyſicians</hi> may be Cured, but this is an <hi>infallible Executioner,</hi> as ſure as <hi>death</hi> it ſelf. And doth not <hi>Sin</hi> do the ſame with the <hi>Soul?</hi>
+               <note place="margin">Gen. 2.17.</note> 
+               <hi>In the day thou eateſt thereof thou ſhalt dye;</hi> not a <hi>year after,</hi> but in the <hi>very day</hi> thou breakeſt my Comman<g ref="char:EOLhyphen"/>dement thy <hi>ſin</hi> will prove <hi>deadly.</hi> So <hi>Annanias</hi> and <hi>Sapphyra</hi> no ſooner <hi>lyed to the holy Ghoſt,</hi> but at St. <hi>Peter</hi>'s Examination their <hi>Conſciences</hi> became their <hi>condem<g ref="char:EOLhyphen"/>ning Jury,</hi> and their <hi>Sentence</hi> a <hi>ſudden Death.</hi>
+            </p>
+            <p>
+               <pb n="30" facs="tcp:97225:23"/>We have now ſeen their <hi>agree<g ref="char:EOLhyphen"/>ment:</hi> I ſhall only ſay there is this <hi>happy diſſimilitude,</hi> that whereas the Cure of the <hi>Bodily plague</hi> is <hi>uncertain,</hi> that of the <hi>Soul plague</hi> is <hi>infallible,</hi> if we fly to <hi>Chriſt</hi> with a due ſenſe of our miſery, and ſeek from his Me<g ref="char:EOLhyphen"/>rits that <hi>Alexipharmacon,</hi> that is, <hi>an Antidote againſt the greateſt Crimes.</hi>
+            </p>
+            <p>But I ſhall deſiſt from ſpeak<g ref="char:EOLhyphen"/>ing any longer <hi>indefinitely</hi> of <hi>Sin,</hi> and come to thoſe <hi>particular ones</hi> that in ſo high a degree have drawn this <hi>plague</hi> upon us.</p>
+            <p>Firſt then, The <hi>ſin</hi> that leads the <hi>van</hi> is our <hi>Sabbath-breaking.</hi> How loud doth this cry in the Ears of God! A <hi>ſin</hi> more <hi>fre<g ref="char:EOLhyphen"/>quent, impudent,</hi> and <hi>unpuniſh'd,</hi>
+               <pb n="31" facs="tcp:97225:23"/>
+than in thoſe late <hi>black days</hi> when the <hi>greateſt</hi> were juſtified by a Law. This <hi>bleſſed day</hi> is now as much mangled and broken as once the <hi>Lord</hi> of it was: And as the <hi>Poet,</hi> deriding the <hi>immode<g ref="char:EOLhyphen"/>rate dreſs</hi> of a <hi>wanton Girl,</hi> told her that ſhe was <hi>minima pars ſui;</hi> ſo is this <hi>day</hi> ſo divided, that it is now become <hi>the leaſt part of it ſelf,</hi> and you may ſeek for a <hi>Sabbath in a Sabbath and not find it.</hi> And whereas it ought to be the <hi>greateſt Feſtival</hi> and <hi>holy Reſt,</hi> now other days are more <hi>inno<g ref="char:EOLhyphen"/>cent</hi> then this. <hi>Thoſe</hi> we ſpend upon our <hi>Callings,</hi> and <hi>this</hi> (the more is our ſhame) on our <hi>ſins.</hi> In the <hi>Primitive times</hi> ſanctify<g ref="char:EOLhyphen"/>ing the <hi>Lords Day</hi> was an emi<g ref="char:EOLhyphen"/>nent <hi>Character</hi> that <hi>Chriſtians</hi> li<g ref="char:EOLhyphen"/>ved
+<pb n="32" facs="tcp:97225:24"/>
+in the purity of their pro<g ref="char:EOLhyphen"/>feſſion. When the Queſtion was asked, <hi>Servaſti Dominicam?</hi> The Anſwer returned was, <hi>Chri<g ref="char:EOLhyphen"/>ſtianus ſum, intermittere non poſ<g ref="char:EOLhyphen"/>ſum;</hi> I am a Chriſtian, and may not do otherwiſe. How are we fallen from our <hi>firſt love?</hi> by prophaning the <hi>Sabbath</hi> either through <hi>Schiſmatical Petulancy,</hi> or <hi>Idleneſs</hi> and <hi>Security, ſnorting on a Bed,</hi> or <hi>walking in the fields,</hi> forgetting that <hi>he</hi> which on this day <hi>gathered ſticks</hi> was <hi>paid home with ſtones.</hi> Conſidering there<g ref="char:EOLhyphen"/>fore the <hi>judgement</hi> of God that hangs over our head for this <hi>par<g ref="char:EOLhyphen"/>ticular ſin,</hi> it is <hi>Chriſtian Prudence</hi> to pray, <hi>Lord have Mercy upon us, and encline our hearts to keep this Law.</hi>
+            </p>
+            <p>
+               <pb n="33" facs="tcp:97225:24"/>Secondly, Another <hi>Sin</hi> that pulls down God's vengeance on us, is that of <hi>Pride. Boetius</hi> ſayes excellently well, <hi>Cum om<g ref="char:EOLhyphen"/>nia vitia fugiant à Deo, ſola Su<g ref="char:EOLhyphen"/>perbia ſe Deo opponit;</hi> When all Vices flye from God, <hi>Pride</hi> alone oppoſes it ſelf to God. In o<g ref="char:EOLhyphen"/>ther vices men ſeek ſome <hi>imagi<g ref="char:EOLhyphen"/>nary good,</hi> but in this they ende<g ref="char:EOLhyphen"/>vour to <hi>dethrone God:</hi> it is an oppoſition to his very <hi>Being,</hi> as he is <hi>Alpha</hi> and <hi>Omega</hi> the <hi>firſt Ef<g ref="char:EOLhyphen"/>ficient</hi> and <hi>laſt End;</hi> no wonder therefore if he blaſts the <hi>perſons</hi> and <hi>deſigns</hi> of thoſe that harbour this <hi>Monſter,</hi> which beginning firſt in heaven will never forget its old Attempt. And therefore St. <hi>Proſper</hi> in his Excellent <hi>Epiſtle</hi> to the Noble Virgin <hi>Demetrias,</hi>
+               <pb n="34" facs="tcp:97225:25"/>
+ſays finely, <hi>Cum aliae cupiditates ea tantum bona quibus adverſantur imminuant; haec dum omnia ad ſe trahit, ſimul univerſa corrumpit;</hi> That whereas other Luſts waſte only that Good and Virtue to which they are contrary, <hi>Pride</hi> whileſt it arrogates all to it ſelf, corrupts all at once. God there<g ref="char:EOLhyphen"/>fore <hi>ſcatters the Proud,</hi> he <hi>ma<g ref="char:EOLhyphen"/>keth them like Smoak</hi> (to ſpeak with the <hi>Pſalmiſt) which periſheth</hi> in aſcending, and <hi>vaniſheth</hi> in dilating of it ſelf. I ſhall not need to tell you how he hath puniſh'd it in <hi>Wicked men,</hi> as in <hi>Nebuchadnezzar, Herod,</hi> and <hi>Antiochus;</hi> for he will not allow it in his own people. And there<g ref="char:EOLhyphen"/>fore if <hi>Corah, Dathan,</hi> and <hi>A<g ref="char:EOLhyphen"/>biram</hi> will be <hi>holier</hi> than <hi>Moſes</hi>
+               <pb n="35" facs="tcp:97225:25"/>
+and <hi>Aaron,</hi> and tempt the <hi>Jewiſh Congregation</hi> to a <hi>Contempt</hi> of their <hi>Superiours,</hi> he will preſently <hi>open the Earth,</hi> and <hi>bury them a<g ref="char:EOLhyphen"/>live.</hi> They were <hi>ante Sepulti, quam Mortui,</hi> as the <hi>African</hi> Fa<g ref="char:EOLhyphen"/>ther <hi>(Optatus)</hi> ſpeaks. If <hi>David</hi> out of pride will <hi>number the Peo<g ref="char:EOLhyphen"/>ple,</hi> (and ſure it was ſo, for the Text ſaith,<note place="margin">1 Chr. 21.14.</note> 
+               <hi>his heart was lift up to number the People</hi>) God will ſend his <hi>Plague</hi> and ſweep away <hi>ſeventy thouſand</hi> of them.</p>
+            <p n="3">3. A <hi>third ſin</hi> is that Cur<g ref="char:EOLhyphen"/>ſed one of <hi>Swearing</hi> ſo much in Practice. <hi>Becauſe of Oaths</hi> (ſaith the Prophet) <hi>the Land Mourneth:</hi>
+               <note place="margin">Jer. 3.10.</note> And how can we but expect that God will ſend the <hi>lightning</hi> of his <hi>judgements</hi> from <hi>heaven,</hi> when we do ſo <hi>thunder</hi>
+               <pb n="36" facs="tcp:97225:26"/>
+out <hi>Oaths</hi> on <hi>Earth.</hi> This is a Reigning Sin, not only amongſt the <hi>Baſeſt,</hi> but thoſe that would be thought the <hi>Ornaments</hi> of the <hi>Age,</hi> as if <hi>Gentility</hi> conſiſted in <hi>belching out blaſphemy.</hi>
+            </p>
+            <p>If the <hi>King</hi> be ſpoken againſt, it is <hi>high treaſon,</hi> and deſervedly puniſh'd with <hi>Death;</hi> if a <hi>Noble man</hi> be traduced or ſlandered, it is puniſhable by the Statute of <hi>Scandalum Magnatum;</hi> yea, a private man in caſes of <hi>Obloquy</hi> hath his remedy by <hi>Action:</hi> only the <hi>name</hi> of <hi>God,</hi> though dear to him, is not ſo tenderly regarded, but is moſt <hi>grievouſly rent</hi> and <hi>torn</hi> by this <hi>common</hi> and <hi>Soul-ruining Sin</hi> of <hi>Swearing.</hi> But let me adviſe the <hi>black mouthed Swearer,</hi> to have a care of <hi>ſwear<g ref="char:EOLhyphen"/>ing
+<pb n="37" facs="tcp:97225:26"/>
+in jeſt</hi> (as men are apt to pre<g ref="char:EOLhyphen"/>tend) leſt he go to <hi>Hell in ear<g ref="char:EOLhyphen"/>neſt;</hi> for every <hi>Oath</hi> he ſwears, gives his <hi>Soul</hi> a <hi>wound,</hi> and that <hi>wound</hi> will be <hi>vocal</hi> enough to peirce <hi>heaven,</hi> and call for <hi>ven<g ref="char:EOLhyphen"/>geance</hi> on the <hi>Swearer.</hi> Have not many of us <hi>uncharitably</hi> and <hi>blaſ<g ref="char:EOLhyphen"/>phemouſly</hi> wiſh'd, that <hi>the Plague of God would light upon our Bre<g ref="char:EOLhyphen"/>thren?</hi> How <hi>juſtly</hi> now hath it overtaken us. <hi>Curſes</hi> and <hi>Exe<g ref="char:EOLhyphen"/>crations</hi> have proceeded from us like <hi>Arrows</hi> ſhot againſt <hi>heaven,</hi> and now they are returned back upon our <hi>own heads.</hi>
+            </p>
+            <p>Fourthly, I muſt name that of <hi>
+                  <g ref="char:V">Ʋ</g>ncharitableneſs</hi> to one ano<g ref="char:EOLhyphen"/>ther, upon occaſions that ſhould rather adminiſter grounds of <hi>Re<g ref="char:EOLhyphen"/>pentance</hi> then of <hi>Malice.</hi> The
+<pb n="38" facs="tcp:97225:27"/>
+               <hi>Apoſtle</hi> tells us <hi>Charity covers a multitude of Sins,</hi> but we (as if we were true Children of <hi>Noah</hi>) delight in our Relations <hi>Nakedneſs.</hi> What <hi>heart-burnings</hi> are between us upon ſmall dif<g ref="char:EOLhyphen"/>ferences of <hi>Judgement?</hi> The <hi>Turk</hi> cannot hate a <hi>Chriſtian</hi> with a more <hi>Vatinian</hi> hatred then we perſecute one another, though <hi>baptized into the ſame Faith,</hi> and equally <hi>profeſſors</hi> of the ſame <hi>Goſpell.</hi> Is not the <hi>Plague</hi> come upon us, that our Lord fore<g ref="char:EOLhyphen"/>told, that <hi>Father ſhould be againſt Son, and Son againſt Father?</hi> will an <hi>Independant</hi> endure a <hi>Presby<g ref="char:EOLhyphen"/>terian,</hi> or the <hi>Anabaptiſt</hi> and <hi>Fifth Monarchiſt</hi> one of the <hi>Epiſ<g ref="char:EOLhyphen"/>copal</hi> perſuaſion? No, no, we have known to our grief what
+<pb n="39" facs="tcp:97225:27"/>
+blood hath been ſhed upon this account, and that their mutual <hi>animoſities</hi> have <hi>boyled</hi> to as great a height as thoſe at preſent be<g ref="char:EOLhyphen"/>tween <hi>Turk</hi> and <hi>Perſian. Con<g ref="char:EOLhyphen"/>ſtantine</hi> the <hi>Great,</hi> when he ſum<g ref="char:EOLhyphen"/>moned the <hi>firſt General Councel</hi> at <hi>Nice,</hi> to extinguiſh the <hi>Arrian</hi> Hereſie, concerning the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of <hi>Chriſt</hi> with his <hi>Father,</hi> cau<g ref="char:EOLhyphen"/>ſed all the private Contentions and Strifes that were enflamed amongſt the <hi>Biſhops</hi> themſelves to be drawn up into a Compen<g ref="char:EOLhyphen"/>dium of <hi>Articles,</hi> before they ſhould <hi>deliberate</hi> about that <hi>grand Affair,</hi> which being done, he ſealed them up with his own <hi>Royal Signet,</hi> and kept them in his boſome for a while as a Se<g ref="char:EOLhyphen"/>cret; afterward in his <hi>Speech,</hi> ex<g ref="char:EOLhyphen"/>horting
+<pb n="40" facs="tcp:97225:28"/>
+them to <hi>unity of Spirit,</hi> and a ſerious diſcuſſion of thoſe things that concerned the <hi>Cauſe of Chriſt,</hi> he burnt all thoſe en<g ref="char:EOLhyphen"/>vious Libells together,<note place="margin">Car. in Nice. Conc. Appar. pag. <hi>45.</hi> in <hi>16.</hi>
+               </note> 
+               <hi>Ne inno<g ref="char:EOLhyphen"/>teſceret ulli odium &amp; ſugillatio Sa<g ref="char:EOLhyphen"/>cerdotum,</hi> as <hi>Caranza</hi> informs me. Let us that ſerve at the <hi>Altar,</hi> imitate this Pious <hi>Prince,</hi> and if there be any <hi>unchriſtian, unchari<g ref="char:EOLhyphen"/>table fends</hi> amongſt us, bury them in <hi>Eternal Oblivion,</hi> left they hinder us in the proſecution of the <hi>Cauſe of God,</hi> and not only prove our <hi>ſhame,</hi> but a ſtumbling block of <hi>Offence</hi> to the Enemies of the <hi>Faith.</hi> Our Lord and Saviour at his departure left us this <hi>New Commandement,</hi> that we ſhould <hi>love one another,</hi> but we have ſo affronted this <hi>Injunction,</hi>
+               <pb n="41" facs="tcp:97225:28"/>
+that it is no marvel if he ſays he is <hi>come not to ſend Peace but a Sword;</hi> a <hi>Sword</hi> that ſhall draw out our <hi>vitals,</hi> and render us the <hi>victims</hi> of his <hi>fury.</hi>
+            </p>
+            <p>Fifthly, That <hi>Rebellious mur<g ref="char:EOLhyphen"/>muring</hi> humour with which we have outraged <hi>Prince</hi> and <hi>Prieſt.</hi> The Sacred Scripture never gives us an Account of <hi>Murmurers,</hi> but it tells us likewiſe their <hi>Pu<g ref="char:EOLhyphen"/>niſhment; Pharaoh</hi> murmured at the <hi>Iſraelites,</hi> and <hi>God</hi> entombed him and his hoaſt in the <hi>Red Sea. Joſeph's</hi> Brethren <hi>murmured</hi> at him, and their reward was <hi>vaſ<g ref="char:EOLhyphen"/>ſalage,</hi> they became his <hi>Servants. Saul</hi> murmured at <hi>David's ten thouſands,</hi> and <hi>God</hi> left him to be his own <hi>Executioner. Judas</hi> murmured at the <hi>Box</hi> of <hi>Oyle</hi>
+               <pb n="42" facs="tcp:97225:29"/>
+that was poured on his <hi>Maſters</hi> head, and what was his reward? <hi>he hang'd himſelf.</hi> And is not this our Caſe? When King <hi>Charles</hi> the <hi>firſt</hi> lived, (though we may ſay of him as <hi>Homer</hi> ſaid of <hi>Greece,</hi> that it was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the <hi>Pap</hi> and <hi>Dug</hi> of the Earth, <hi>He</hi> the Cream and Excellenteſt of <hi>Princes</hi>) how did our <hi>un<g ref="char:EOLhyphen"/>godly</hi> and <hi>malicious humours</hi> load him with all thoſe Obloquies and Reproaches which St. <hi>Paul</hi> would not have flung even at <hi>Nero</hi> him<g ref="char:EOLhyphen"/>ſelf. And what I pray was the Iſſue of this? Theſe <hi>diſcontented murmurings</hi> begot a <hi>Rebellion,</hi> and that <hi>Rebellion,</hi> though it occaſion<g ref="char:EOLhyphen"/>ed the Ruin of the moſt bleſſed <hi>Prince,</hi> yet by God's juſt judg<g ref="char:EOLhyphen"/>ment diſgorged its Venom upon
+<pb n="43" facs="tcp:97225:29"/>
+our own heads: from being <hi>free Subjects</hi> to a <hi>King</hi> of a <hi>Glorious Race,</hi> it made us <hi>vaſſals</hi> to <hi>one of low degree,</hi> and took from us the felicity they enjoy, whoſe <hi>King is the Son of Nobles;</hi> The ſame we may affirm of the <hi>Church of England:</hi> When was it ſo flouriſhing as in the afore<g ref="char:EOLhyphen"/>named <hi>Prince</hi>'s Time? Yet ei<g ref="char:EOLhyphen"/>ther our <hi>diſcontentedneſs</hi> at his <hi>Fatherly Indulgence</hi> to it, or our <hi>Avaritious deſigns</hi> to engroſs its <hi>Patrimony,</hi> brought us to that <hi>Inſolence,</hi> that we muſt needs make her the <hi>Young Whore of Babylon;</hi> and under pretence of correcting her <hi>Errors,</hi> not only commit the greateſt <hi>Sacriledges</hi> and <hi>Rapes</hi> upon her, but fling down all her <hi>Fences,</hi> that the
+<pb n="44" facs="tcp:97225:30"/>
+               <hi>Wild Bore</hi> of <hi>Schiſme</hi> and <hi>Here<g ref="char:EOLhyphen"/>ſie</hi> might root her up. And God knows at this very day, the diſ<g ref="char:EOLhyphen"/>mal Effects of <hi>murmuring</hi> are too too viſible, although our now <hi>Gratious Prince,</hi> endevours to his utmoſt the extinguiſhing theſe <hi>unhappy differences,</hi> that like ſo many <hi>Phaetons</hi> if not ſtopp'd in their Motion will burn both <hi>Church</hi> and <hi>State.</hi>
+            </p>
+            <p>An hour is too ſhort a time to diſcourſe of the <hi>Sins</hi> that ſwarm in <hi>this Land.</hi> What <hi>Mercy</hi> do we ſhew to our <hi>Poor?</hi> doth not the <hi>Extortioner</hi> take damnable <hi>Intereſt,</hi> and the <hi>Oppreſſor</hi> uſe <hi>violence?</hi> Do they not eat like a <hi>canker</hi> into the <hi>Reverſions</hi> of the <hi>Poor?</hi> The <hi>Italians</hi> proverbially ſay of the <hi>Viceroyes</hi> of <hi>Naples</hi> and <hi>Milan,</hi>
+               <pb n="45" facs="tcp:97225:30"/>
+that the one <hi>fleeces</hi> and the other <hi>fleas</hi> the <hi>Subject.</hi> I am afraid we have too many amongſt us that put this in practice, and make it their only ſtudy to be <hi>Ingeni<g ref="char:EOLhyphen"/>ous</hi> in <hi>oppreſſing</hi> and <hi>ruining</hi> their <hi>poor neighbours.</hi>
+            </p>
+            <p>What <hi>temperance</hi> do we pra<g ref="char:EOLhyphen"/>ctice in the uſe of the <hi>creatures?</hi> How many are there that ſtudy to be nothing more then <hi>accurate Gluttons?</hi> They cannot <hi>dine</hi> or <hi>ſup</hi> except they rob the <hi>Aire</hi> of its <hi>rareſt fowle,</hi> and the Rivers and Seas of its moſt <hi>exquiſite Fiſh;</hi> and yet will ſcarce afford the <hi>Poor,</hi> thoſe <hi>living Temples of the Holy Ghoſt,</hi> a <hi>Morſell of Bread</hi> to keep them from <hi>Starving;</hi> they can ſwallow down <hi>whole flaggons</hi> of the <hi>richeſt Wines,</hi> and
+<pb n="46" facs="tcp:97225:31"/>
+yet have ſcarce a thimble full of <hi>cold water</hi> for their thirſty <hi>neigh<g ref="char:EOLhyphen"/>bour.</hi> And indeed, if ever <hi>drunkenneſs</hi> had an <hi>impunity,</hi> it is in theſe days; although it be a moſt <hi>deteſtable Sin,</hi> and ſo pro<g ref="char:EOLhyphen"/>lifical that it begets a <hi>thouſand others,</hi> yet it is now ſo much in <hi>vogue,</hi> that I am afraid <hi>reeling in the Streets</hi> will be <hi>al'a mode,</hi> and this <hi>Vice</hi> which <hi>metamorphoſeth</hi> a <hi>Man</hi> into a <hi>Beaſt,</hi> rather be the Subject of <hi>Mirth</hi> then <hi>deteſtation.</hi> But let theſe <hi>bon-companions</hi> know there was a <hi>curſe</hi> long ago <hi>pronounced</hi> againſt thoſe that are <hi>ſtrong to drink,</hi> and that <hi>God</hi> is now putting it in <hi>Execution.</hi> Since with their Teeth they will be <hi>digging</hi> their own <hi>graves,</hi> and <hi>pour down</hi> into their <hi>Throats</hi> like
+<pb n="47" facs="tcp:97225:31"/>
+               <hi>ſluces, floods</hi> of <hi>Liquor</hi> to <hi>drown</hi> their <hi>Souls,</hi> it is but Juſt the <hi>Peſtilence</hi> ſhould ſave them a la<g ref="char:EOLhyphen"/>bour and give them a <hi>quick diſ<g ref="char:EOLhyphen"/>patch.</hi>
+            </p>
+            <p>And as with <hi>Exceſs</hi> in <hi>Eating</hi> and <hi>Drinking</hi> we have <hi>provoked</hi> God; ſo likewiſe in our <hi>Apparel and Cloaths.</hi> The <hi>Garments</hi> which <hi>God</hi> made our <hi>firſt Parents,</hi> were to <hi>hide their ſhame,</hi> but <hi>ours</hi> are ſo <hi>fantaſtically ſhap'd,</hi> that inſtead of <hi>covering</hi> they <hi>diſcover it.</hi> In a word, There is nothing We have endevoured ſo much as <hi>the advancement of the Kingdome of Satan.</hi> Our <hi>Eyes</hi> have wholly been employed upon <hi>luſt<g ref="char:EOLhyphen"/>ful Objects,</hi> and <hi>lewd Women: Infeliciſſimae publicarum libidinum victimae,</hi> thoſe <hi>unhappy Sacrifi<g ref="char:EOLhyphen"/>ces
+<pb n="48" facs="tcp:97225:32"/>
+of common Luſt,</hi> as <hi>Tertullian</hi> ſpeaks, more <hi>grateful</hi> to us <hi>than virtuous Company:</hi> The <hi>debau<g ref="char:EOLhyphen"/>chery</hi> of <hi>
+                  <g ref="char:V">Ʋ</g>nclean Songs</hi> and <hi>vila<g ref="char:EOLhyphen"/>nous diſcourſe,</hi> have been more <hi>acceptable</hi> to our <hi>Ears</hi> than a <hi>good Sermon,</hi> or <hi>wholſome admonitions.</hi> Our <hi>Smell</hi> hath been <hi>careſs'd</hi> with <hi>effeminate perfumes;</hi> Our <hi>Taſt</hi> with <hi>luxurious Viands</hi> and <hi>Sauces,</hi> made to <hi>heighten</hi> an <hi>Appe<g ref="char:EOLhyphen"/>tite</hi> beyond the <hi>Neceſſity</hi> of <hi>Na<g ref="char:EOLhyphen"/>ture.</hi> And laſtly, Our <hi>Touch</hi> hath been <hi>tainted</hi> with <hi>Laſcivi<g ref="char:EOLhyphen"/>ouſneſs.</hi> With ſo <hi>little care</hi> have we guarded <hi>theſe Cinque-ports</hi> of our <hi>Soul,</hi> yea rather left them as ſo many open <hi>avenues</hi> free for <hi>Sin</hi> to <hi>enter:</hi> That it is no won<g ref="char:EOLhyphen"/>der if <hi>death tread</hi> upon the Heels of <hi>Sin,</hi> and <hi>ſnatches</hi> us away in the <hi>flagrant fact.</hi>
+            </p>
+            <p>
+               <pb n="49" facs="tcp:97225:32"/>
+               <hi>Object.</hi> But you will ſay, <hi>Since God is all goodneſs, and cannot be the Author of Evill, how comes it to paſs that he ſo ſeverely puniſh<g ref="char:EOLhyphen"/>eth Sin, and ſends ſuch plagues amongst men for it.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> To this I anſwer with the Learned Biſhop of <hi>Marſeilles Salvianus</hi> in his 8 Book <hi>de Pro<g ref="char:EOLhyphen"/>videntia,</hi> where he ſaith, <hi>A Deo quippe punimus ſed ipſi faci<g ref="char:EOLhyphen"/>mus. Cui dubium eſt quin ipſi nos noſtris criminibus puniamus; vim Deo facimus iniquitatibus noſtris, &amp; ipſi in nos Iram Dei armamus. God</hi> indeed <hi>puniſheth</hi> us, but <hi>we cauſe,</hi> and after a ſort <hi>force</hi> him to do it. <hi>God inflicteth ſtripes,</hi> but <hi>we deſerve</hi> them. <hi>God ſtriketh,</hi> but <hi>we provoke. God poureth out the Vials of his wrath,</hi> but <hi>we fill them up to the
+<pb n="50" facs="tcp:97225:33"/>
+brim, by our overflowing Iniquities.</hi> If we have any thing that is <hi>good</hi> in <hi>us</hi> it is from <hi>God;</hi> but in a <hi>true ſenſe</hi> we make him <hi>juſt</hi> even by our <hi>Injuſtice;</hi> for if we were not <hi>unjuſt</hi> in <hi>Sinning,</hi> he could not be <hi>juſt</hi> in <hi>puniſhing;</hi> neither <hi>would</hi> he <hi>deſire</hi> any way to <hi>exalt</hi> his <hi>glory</hi> by the <hi>ruine</hi> of his <hi>Crea<g ref="char:EOLhyphen"/>ture.</hi>
+               <note place="margin">Mic. 7.18.</note> 
+               <hi>Mercy</hi> is his <hi>delight,</hi> and <hi>good<g ref="char:EOLhyphen"/>neſs</hi> is his <hi>Nature.</hi> He there<g ref="char:EOLhyphen"/>fore never <hi>ſendeth Evil upon us,</hi> before we <hi>have it in us;</hi> he ne<g ref="char:EOLhyphen"/>ver <hi>fills</hi> a Cup of <hi>Red wine</hi> be<g ref="char:EOLhyphen"/>fore the meaſure of our <hi>Crimſon ſin</hi> is <hi>full.</hi> Let us therefore <hi>lay the blame upon our ſelves,</hi> and with mournful <hi>Jeruſalem</hi> ſay, <hi>The Lord is righteous,</hi> but <hi>we have rebelled againſt him:</hi> Let us in <hi>flying</hi> to his <hi>Mercy,</hi> yet ſtill <hi>adore</hi>
+               <pb n="51" facs="tcp:97225:33"/>
+his <hi>juſtice;</hi> and let the conſide<g ref="char:EOLhyphen"/>ration of his <hi>unwillingneſs</hi> to <hi>pu<g ref="char:EOLhyphen"/>niſh</hi> us, ſo <hi>work</hi> upon us, that <hi>hereafter</hi> we may not force him to it. For he is <hi>ſlow to anger and of great Compaſſion.</hi>
+            </p>
+            <p>And thus from the <hi>Diſeaſe</hi> we paſs to the <hi>Remedy,</hi> which conſiſts of three <hi>Ingredients;</hi> 
+               <list>
+                  <item>1. <hi>Humility.</hi>
+                  </item>
+                  <item>2. <hi>Prayer.</hi>
+                  </item>
+                  <item>3. <hi>Repentance.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>If my People that are called by my name, do humble themſelves, and pray, and ſeek my face, and turn from their wicked ways, then will I hear,</hi> &amp;c.</p>
+            <p n="1">1. <hi>If my People humble them<g ref="char:EOLhyphen"/>ſelves.</hi> It ſeems <hi>God</hi> will have
+<pb n="52" facs="tcp:97225:34"/>
+               <hi>humility</hi> be the <hi>firſt Ingredient</hi> in this <hi>Plague-Antidote. Lofty Spi<g ref="char:EOLhyphen"/>rits</hi> are like <hi>wheels,</hi>
+               <note place="margin">St. Baſil. in Aſcet. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>4.</hi>
+               </note> in St. <hi>Baſil</hi>'s phraſe, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>They move not to any Spiritual height, but run a vain Circle and endleſs round.</hi> They are ſo far from attaining any <hi>good end,</hi> that they embar all the paſſages to it. The old <hi>Marquiſs</hi> of <hi>Worceſter</hi> being asked in Queen <hi>Elizabeths</hi> Time, how he continued Fa<g ref="char:EOLhyphen"/>vourite to three Princes of ſuch different humours? Anſwered, <hi>He was made of a Willow not of an Oke, and had learn'd the Art of Submiſſion.</hi> But proud men make it their buſineſs to withſtand Thunderbolts, and had rather periſh then not attempt. Had
+<pb n="53" facs="tcp:97225:34"/>
+they fully known what the meaning of that paſſage is, <hi>God reſiſteth the proud and giveth grace unto the humble,</hi> they would eaſily have <hi>underſtood,</hi> that the only way to avoid the <hi>fury of the Lyon</hi> of the Tribe of <hi>Judah,</hi> is to lay <hi>proſtrate before him;</hi> not to contend, but yield the <hi>buckler</hi> to him, that never kills perſons <hi>diſarmed</hi> of their Sins, and hum<g ref="char:EOLhyphen"/>bly begging quarter. The <hi>Royal Prophet</hi> ſaith, <hi>A broken heart and a contrite Spirit, oh God! thou wilt not deſpiſe.</hi> The <hi>Ninivites</hi> found the Truth of this upon the pronouncing of that fatal Sentence againſt them, <hi>Yet forty days and Nineveh ſhall be deſtroyed.</hi> What? did they fortifie their City? did they frame of their
+<pb n="54" facs="tcp:97225:35"/>
+old men a <hi>Councel of War,</hi> and of their youth raiſe a puiſſant Army? did they ſend for the help of their Allies, and pro<g ref="char:EOLhyphen"/>vide for a long Siege? No, they underſtood a better method of <hi>diſarming divine wrath,</hi> they <hi>clo<g ref="char:EOLhyphen"/>thed</hi> themſelvs with <hi>Sackcloth</hi> and <hi>ſat</hi> in <hi>Aſhes;</hi> they humbled them<g ref="char:EOLhyphen"/>ſelves before the <hi>Lord,</hi> and by this holy policy brought the Lord to repent of the <hi>Evil</hi> he intended againſt them. Here it is <hi>worth</hi> obſerving, that <hi>humble Submiſſion,</hi> is more prevalent with <hi>God,</hi> than our <hi>fellow Crea<g ref="char:EOLhyphen"/>ture. Niniveh</hi> humbles it ſelf, and <hi>God repents</hi> of the <hi>deſigned ruine:</hi> But <hi>Jonah</hi> grows angry, and thinks he doth well to be ſo. This humility muſt not be
+<pb n="55" facs="tcp:97225:35"/>
+like that which the <hi>Prophet</hi> com<g ref="char:EOLhyphen"/>plains of, <hi>a holding down our head like a hulruſh:</hi> We muſt have a <hi>deep ſenſe</hi> of our <hi>unworthineſs,</hi> that has <hi>cauſed</hi> this <hi>fire</hi> to go out againſt us, and having truly con<g ref="char:EOLhyphen"/>ſidered the greatneſs of that Majeſty we have offended, cry out in <hi>confuſion of face,</hi> that we are but <hi>duſt,</hi> and cannot endure <hi>everlaſting burnings.</hi>
+            </p>
+            <p>And that we may the better do thus, let us firſt conſider the <hi>Juſtneſs</hi> of the <hi>Act.</hi> If we have offended a temporal <hi>Prince,</hi> we ſpare no labour, leave no ſtone unturned to find out this Cour<g ref="char:EOLhyphen"/>tier, that Favourite, yea at the very expence of our Eſtates to mediate with him our reconcili<g ref="char:EOLhyphen"/>ation; when many times it is to
+<pb n="56" facs="tcp:97225:36"/>
+no purpoſe: And ſhall we be leſs <hi>ſedulous</hi> in appeaſing the <hi>King of Kings</hi> and <hi>Lord of Lords,</hi> by a due acknowledging our own vileneſs and the enormity of our Actions that have provoked his juſt <hi>diſpleaſure?</hi> Had he de<g ref="char:EOLhyphen"/>manded the fruit of our body, our Eſtates, or our Lives, by way of Expiation, and after all this left us in an uncertainty, whether he would pardon, whe<g ref="char:EOLhyphen"/>ther he would heal us or no, the <hi>Caſe</hi> had been hard; but when he that is <hi>Truth it ſelf</hi> aſſures us our <hi>humble Submiſſion</hi> ſhall make amends, ſurely we muſt be the moſt <hi>wretched people</hi> in the <hi>World</hi> if we want a <hi>heart</hi> and a <hi>knee</hi> to appeaſe his fury.</p>
+            <p>
+               <pb n="57" facs="tcp:97225:36"/>Secondly, It is the moſt ad<g ref="char:EOLhyphen"/>vantagious Act to our ſelves; and this will appear three ways.</p>
+            <p>Firſt, It prevents Subſtraction of <hi>Grace,</hi> and falling into <hi>grie<g ref="char:EOLhyphen"/>vous Sins.</hi> Without this gra<g ref="char:EOLhyphen"/>cious frame of Spirit even the greateſt <hi>Saints</hi> have fallen into horrid ſins: We may obſerve this in St. <hi>Peter</hi> himſelf, in a vain glorious humour he began to tell Chriſt, <hi>Maſter though all the world forſake thee, I will not;</hi> yet when his <hi>Lord</hi> and <hi>Maſter</hi> was <hi>ſeized</hi> by the <hi>Jews,</hi> upon the accuſation of a ſilly Damoſell, he was the <hi>firſt</hi> that not only <hi>de<g ref="char:EOLhyphen"/>nied</hi> his <hi>Maſter,</hi> but <hi>forſware</hi> him too: Had he been as low and humble in his own Conceit when the Maid ſaid unto him, <hi>Thou
+<pb n="58" facs="tcp:97225:37"/>
+alſo waſt with Jeſus of Galilee,</hi>
+               <note place="margin">Mat. 26.69.</note> as he was immediately after his <hi>denial,</hi> when he <hi>went out and wept bitterly,</hi> his <hi>Lord</hi> would not have <hi>ſuffered</hi> him ſo <hi>foully</hi> to <hi>fall;</hi> And therefore his <hi>fellow Apoſtle</hi> St. <hi>Paul</hi> tells us of a <hi>Thorn in his fleſh,</hi> or a <hi>buffetting Sathan</hi> to keep him humble and in a due ſenſe of his <hi>nothingneſs, leſt</hi> (ſays he) <hi>I ſhould be exalted above mea<g ref="char:EOLhyphen"/>ſure through the abundance of Re<g ref="char:EOLhyphen"/>velations.</hi>
+               <note place="margin">Sup. Cant. Serm. <hi>52.</hi>
+               </note> St. <hi>Bernard</hi> obſerves, that ſometimes <hi>grace</hi> is <hi>ſubſtra<g ref="char:EOLhyphen"/>cted,</hi> not for <hi>Pride</hi> which alrea<g ref="char:EOLhyphen"/>dy is, but which would be, if it were not ſubſtracted. Here St. <hi>Auguſtine</hi> in his Book <hi>de Civi<g ref="char:EOLhyphen"/>tate Dei;</hi>
+               <note place="margin">C. 14. c. 13</note> 
+               <hi>Audio dicere ſuperbis utile eſſe cadere in aliquod apertum manifeſtumque peccatum unde ſibi
+<pb n="59" facs="tcp:97225:37"/>
+diſpliceant qui jam ſibi placendo ce<g ref="char:EOLhyphen"/>ciderunt, i. e.</hi> I dare boldly af<g ref="char:EOLhyphen"/>firm, That it is requiſite for the <hi>Proud</hi> to fall into ſome open and hainous Sin, that ſo at laſt they may fall out of Conceit with themſelves, that fell by ſtand<g ref="char:EOLhyphen"/>ing in their own Conceit. It is humility then that ſhuts up all the paſſages to Sin, and is as St. <hi>Bazil</hi> ſpeaks, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>The Magazine of Virtues.</hi>
+            </p>
+            <p>Secondly, It is the <hi>characteriſtical note</hi> of our Chriſtianity, it is a virtue peculiar to it. <hi>Learn of me for I am meek and lowly,</hi> is a Do<g ref="char:EOLhyphen"/>ctrine which Chriſt firſt taught, and <hi>Doctor humilitatis</hi> in St. <hi>Au<g ref="char:EOLhyphen"/>guſtin</hi>'s opinion is his <hi>proper Stile;</hi> His whole <hi>Life</hi> and <hi>Actions</hi> were the great Examples of it. <hi>Hu<g ref="char:EOLhyphen"/>mility</hi>
+               <pb n="60" facs="tcp:97225:38"/>
+is a <hi>piece</hi> of that <hi>Celeſtial Philoſophy</hi> the <hi>Gentiles</hi> never knew, it is much above their <hi>E<g ref="char:EOLhyphen"/>thicks;</hi> for though amongſt them a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a Moderation to know and keep our meaſures,</hi> be commended for <hi>virtue,</hi> yet that this ſhould be performed in hum<g ref="char:EOLhyphen"/>ble dependance on God, by Grace derived from him in our Redeemer, was above their Learning: And therefore <hi>Cle<g ref="char:EOLhyphen"/>mens</hi> of <hi>Alexandria</hi> ſaid well, That <hi>Natural men may do the ſame good that a good Chriſtian,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>i. e. But not from the ſame cauſe, nor with the ſame Intention,</hi> for they make not <hi>God</hi> in <hi>Chriſt</hi> either their <hi>beginning</hi> or <hi>end.</hi> So that the acting <hi>Virtues</hi> in a ſuper<g ref="char:EOLhyphen"/>natural
+<pb n="61" facs="tcp:97225:38"/>
+power, and referring them primarily, to his honor in <hi>Chriſt</hi> (which is the Quinteſ<g ref="char:EOLhyphen"/>ſence of <hi>humility</hi>) is above the reach of <hi>Philoſophical</hi> Specula<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Thirdly, It is the readieſt way to ſaving <hi>knowledge. The humble thou wilt teach thy way,</hi> ſays the royal Prophet. Proud <hi>per<g ref="char:EOLhyphen"/>ſons</hi> will never make good <hi>Scho<g ref="char:EOLhyphen"/>lars</hi> in <hi>Chriſt</hi>'s School; he will never put the <hi>new wine</hi> of his <hi>Grace</hi> into their old <hi>muſty bottles;</hi> the reaſon is, they are ſo full with their own <hi>airy Conceptions,</hi> with the bubbles of their own <hi>blowing,</hi> that there is no room for ſolid and real <hi>Truths,</hi> with which the <hi>Holy Ghoſt</hi> ever fills <hi>humble Souls.</hi> On the contrary,
+<pb n="62" facs="tcp:97225:39"/>
+the <hi>humble perſon</hi> that conſiders the <hi>vileneſs</hi> of his <hi>natural condi<g ref="char:EOLhyphen"/>tion,</hi> and how <hi>poor</hi> and <hi>naked</hi> he is, places all his hopes of <hi>ſtrength</hi> and <hi>knowledge</hi> only in God, and by that <hi>reſignation</hi> of himſelf, ea<g ref="char:EOLhyphen"/>filer receives thoſe <hi>divine</hi> exami<g ref="char:EOLhyphen"/>nations of <hi>Truth,</hi> that can <hi>make him wiſe to Salvation:</hi> The great end of <hi>Chriſtianity</hi> (to uſe the Words of <hi>Hierocles</hi> concerning the <hi>Pythagorean diſcipline</hi>) is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>· <hi>That we may be made all wing for the pur<g ref="char:EOLhyphen"/>ſuit of Divine things;</hi> but <hi>Pride</hi> puts weights of Lead upon the <hi>Soul,</hi> that <hi>She</hi> cannot ſoar in<g ref="char:EOLhyphen"/>to the <hi>Region</hi> of <hi>Divine Truth;</hi> and ſo muffles her with <hi>ſelf-con<g ref="char:EOLhyphen"/>ceit,</hi> that like hooded <hi>Hawkes</hi> if
+<pb n="63" facs="tcp:97225:39"/>
+               <hi>ſhe</hi> could flye, yet <hi>ſhe</hi> would want an <hi>eye</hi> to purſue her <hi>game.</hi> Let us therefore, if we would be taught by this great <hi>School<g ref="char:EOLhyphen"/>maſter,</hi> approach him with all <hi>humility,</hi> and he will not only teach us thoſe things which are of <hi>Eternal Import,</hi> but cure the <hi>Wounds</hi> which <hi>Sin</hi> hath made in our <hi>Souls,</hi> in our <hi>Bodies,</hi> in the <hi>Church,</hi> in the <hi>State.</hi> And ſo I come to the ſecond <hi>Ingredient,</hi> which is <hi>Prayer. If my People pray, and ſeek my face,</hi> &amp;c.</p>
+            <p>Firſt then, Being to ſpeak of <hi>Prayer,</hi> it will not be amiſs to enquire in the <hi>firſt place,</hi> what <hi>Prayer</hi> is?<note place="margin">L. <hi>3.</hi> de Fide c. <hi>4.</hi>
+               </note> St. <hi>John Damaſcen</hi> an<g ref="char:EOLhyphen"/>ſwers the Queſtion, and ſays, <hi>It is the Elevation of the mind to God.</hi> And St. <hi>Auſtin,</hi>
+               <note place="margin">In Pſ. 85.</note> 
+               <hi>Your Prayer
+<pb n="64" facs="tcp:97225:40"/>
+is a ſpeaking to God.</hi> When you read, <hi>God ſpeaks to you;</hi> when you pray, <hi>you ſpeak to God;</hi> there<g ref="char:EOLhyphen"/>fore <hi>Prayer</hi> is the <hi>Souls Colloquy</hi> and <hi>converſation</hi> with God. So that when we <hi>pray,</hi> we Elevate our ſpirit to God, and famili<g ref="char:EOLhyphen"/>arly (yet with all reverence) communicate our Condition un<g ref="char:EOLhyphen"/>to him with a greater confidence than any Child can do to his Mo<g ref="char:EOLhyphen"/>ther: To him we <hi>unbowel</hi> our <hi>ſelves,</hi> and lay before him what is moſt <hi>dear</hi> unto us, and what moſt <hi>oppreſſes</hi> us in our <hi>Spiritual combats;</hi> our <hi>failings</hi> and our <hi>deſires,</hi> the temporal <hi>bleſſings</hi> we would have, and the <hi>Evils</hi> we would <hi>eſchew,</hi> as one <hi>friend</hi> doth to another in whom he moſt <hi>confides.</hi> And this is that
+<pb n="65" facs="tcp:97225:40" rendition="simple:additions"/>
+which the <hi>Divine Writ</hi> terms a <hi>pouring forth the heart like water before the Lord;</hi> the Text doth not ſay like <hi>Oyle,</hi> ſome of which will ever be <hi>ſticking</hi> to the <hi>veſſel</hi> that contained it; but like <hi>Wa<g ref="char:EOLhyphen"/>ter,</hi> to ſignifie, That <hi>all</hi> our <hi>thoughts,</hi> our <hi>whole heart,</hi> muſt go <hi>out</hi> of it <hi>ſelf</hi> and <hi>aſcend</hi> to <hi>God.</hi> And truly (if ever) now we have need to make this <hi>ſelf-examination;</hi> for, when our <hi>Souls</hi> have (as it were) quit<g ref="char:EOLhyphen"/>ted their <hi>Manſion,</hi> and travelled to the throne of <hi>Grace</hi> to beg <hi>Mercy,</hi> and a <hi>ceaſing</hi> of <hi>Judg<g ref="char:EOLhyphen"/>ments,</hi> we may be confident, <hi>Plagues</hi> will be <hi>crippled,</hi> and not ſuffered to <hi>infect</hi> our <hi>clayie tene<g ref="char:EOLhyphen"/>ments</hi> in our <hi>ſpiritual abſence:</hi> For the truth of this we have our
+<pb n="66" facs="tcp:97225:41"/>
+               <hi>Lord</hi> and <hi>Saviours</hi> own <hi>Word, If ye abide in me, and my words abide in you; ye ſhall ask what ye will and it ſhall be done unto you.</hi> So powerful is <hi>fervent prayer</hi> with <hi>God,</hi> that it <hi>binds</hi> his <hi>hands,</hi> and (to ſpeak with reverence, as it were) <hi>fetters</hi> the <hi>Omnipotent</hi> one. We ſee it likewiſe in the <hi>caſe</hi> of the <hi>Iſraelites, Moſes</hi> was gone up to the <hi>Mount</hi> to receive the <hi>Law,</hi> and his <hi>ſtay</hi> being longer than the <hi>peoples expectation,</hi> they gather themſelves together, and will needs have <hi>Aaron</hi> make them <hi>new Gods; He,</hi> out of their <hi>golden Earings,</hi> to gratifie their importunity, made them a <hi>Calf.</hi> This accurſed peice of <hi>Idolatry, God</hi> (reſolving to puniſh) ſays unto <hi>Moſes, Now therefore let me
+<pb n="67" facs="tcp:97225:41"/>
+alone, that my wrath may wax hot againſt them,</hi> &amp;c. whileſt thou <hi>prayeſt</hi> thou <hi>bindeſt</hi> me; do not thus <hi>manacle</hi> me, let my hands be at <hi>liberty,</hi> that I may cut off this <hi>ſtiff necked generation.</hi> Suitably to this, <hi>Salvianus</hi> commenting upon <hi>Pſal.</hi> 33.18. <hi>Oculi Domini ſuper juſtos, &amp; Aures ejus in preces eorum;</hi> ſays, when the <hi>Scripture</hi> affirms the <hi>Ears</hi> of the <hi>Lord</hi> to be always on the <hi>prayers</hi> of the <hi>juſt;</hi> not only his <hi>readineſs</hi> to <hi>hear,</hi> but a <hi>kind</hi> of <hi>Obedience</hi> in <hi>God</hi> is pointed at, as if <hi>God</hi> were ſo ready to <hi>hear</hi> the <hi>prayers</hi> of his <hi>faithful ones,</hi> that he ſeems wil<g ref="char:EOLhyphen"/>ling, not only to <hi>hear,</hi> but to <hi>Obey;</hi> not only to <hi>grant</hi> what they <hi>deſire,</hi> but <hi>ready</hi> to <hi>perform</hi> what they <hi>command.</hi> Thus, though
+<pb n="68" facs="tcp:97225:42"/>
+the <hi>Sun</hi> comes forth like a <hi>Giant</hi> and rejoyces to run his <hi>race,</hi> yet <hi>He,</hi> and his fellow <hi>Luminary</hi> the <hi>Moon,</hi> the bright <hi>Miſtreſs</hi> of the <hi>night,</hi> by the force of <hi>Prayer,</hi> are <hi>arreſted</hi> and made to <hi>ſtand ſtill</hi> till <hi>Joſhuah</hi> and the <hi>Iſraelites</hi> had avenged themſelves upon their Enemies, <hi>Joſh.</hi> 10.12. Yea, at the prayer of <hi>Hezekiah,</hi> attended with the <hi>Divine Rhethorick</hi> of <hi>Tears,</hi> the ſame <hi>Sun</hi> muſt re<g ref="char:EOLhyphen"/>coyle back. It might have been enough for <hi>Hezekiah</hi>'s faith, to <hi>believe</hi> the words of <hi>Iſaiah</hi> with<g ref="char:EOLhyphen"/>out any Sign: But <hi>God,</hi> to let us ſee how much he was <hi>pleaſed</hi> with the <hi>King</hi>'s earneſt Addreſs, <hi>ſtops</hi> the very <hi>courſe</hi> of <hi>Nature,</hi> and by no leſs than a miracle <hi>declares,</hi> That he had <hi>heard and accepted</hi>
+               <pb n="69" facs="tcp:97225:42"/>
+the <hi>voice</hi> of thoſe <hi>Royal Tears;</hi> for behold, <hi>I will bring again the Shadow of the degrees which is gone down in the Sun-Dial of</hi> A<g ref="char:EOLhyphen"/>haz <hi>ten degrees backward. Iſa.</hi> 38.8. And as <hi>Prayer</hi> hath a power to <hi>invert</hi> the <hi>Courſe</hi> of <hi>Nature,</hi> ſo likewiſe can it make <hi>Nature</hi> act contrary to its own <hi>ſelf.</hi> For <hi>fire</hi> which naturally towers <hi>up<g ref="char:EOLhyphen"/>ward,</hi> at the <hi>Prayer</hi> of <hi>Elijah</hi> deſcended <hi>downward,</hi> and con<g ref="char:EOLhyphen"/>ſumed a <hi>Captain and fifty men,</hi> 2 <hi>Kings</hi> 1.12. Neither is <hi>Prayer</hi> the weapon with which we <hi>only wound</hi> our <hi>Enemies,</hi> but it is (to ſpeak with St. <hi>Ambroſe) telum quo vulneramus Cor Dei,</hi> a <hi>weapon</hi> with which <hi>God</hi> himſelf is <hi>woun<g ref="char:EOLhyphen"/>ded,</hi> as the <hi>Spouſe</hi> in the <hi>Canti<g ref="char:EOLhyphen"/>cles</hi> ſpeaks, <hi>Charitate vulneror;</hi>
+               <pb n="70" facs="tcp:97225:43"/>
+no other <hi>Artillery</hi> but this can <hi>batter</hi> the <hi>Cittadel</hi> of the great <hi>King.</hi> This is a <hi>Truth</hi> ſo evident, that the dim light of <hi>Nature</hi> taught the very <hi>Heathens</hi> it, and therefore (as <hi>Clemens Alexan<g ref="char:EOLhyphen"/>drinus</hi> tells us) they called their God <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">In Protr.</note> from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as if one ſhould ſay, <hi>a God who de<g ref="char:EOLhyphen"/>lighteth in the humble Prayers of hearty Petitioners.</hi> So that we may well ſay with <hi>Luther, Ora<g ref="char:EOLhyphen"/>tio hominis res eſt potentiſſima;</hi> It overth ows <hi>Armies,</hi> turns the <hi>courſe</hi> of <hi>Nature,</hi> obtains the greateſt <hi>bleſſings,</hi> averts the grea<g ref="char:EOLhyphen"/>teſt <hi>Evils,</hi> and even conquers <hi>God</hi> himſelf. Let us therefore offer this <hi>incenſe offering,</hi> this <hi>Spirituale thymiama.</hi>
+               <note place="margin">In Matth.</note> 
+               <hi>Carthuſian</hi> (to its honour) obſerves, That
+<pb n="71" facs="tcp:97225:43"/>
+the Style of <hi>Incenſe</hi> is attributed to no other <hi>Theological virtue,</hi> ſo truly as to <hi>Prayer. Nulla juſtitia thymiamati comparatur niſi ſola O<g ref="char:EOLhyphen"/>ratio;</hi> for as <hi>Incenſe fired</hi> in the <hi>Cenſor</hi> mounts in perfumed <hi>Curls,</hi> and caſts a <hi>grateful odour</hi> about the <hi>Altar;</hi> ſo our <hi>Prayers</hi> pro<g ref="char:EOLhyphen"/>ceeding from <hi>hearts fired</hi> with <hi>holy Zeal,</hi> aſcend to the throne of <hi>God,</hi> and make a <hi>ſweet ſmell</hi> in his <hi>noſthrils:</hi> But to ſpeak more particularly, ſince <hi>prayer</hi> is of ſuch a <hi>power;</hi>
+            </p>
+            <p>Firſt, Let us <hi>pray,</hi> that we may ſhow our <hi>ſelves</hi> Chriſtians. <hi>Tertullian</hi> calls <hi>Chriſtians, the Candidates of the Celeſtial King<g ref="char:EOLhyphen"/>dom: He</hi> alludes to the <hi>cuſtome</hi> of thoſe <hi>Roman Senators</hi> that ſtood for the <hi>Conſulſhip,</hi> who
+<pb n="72" facs="tcp:97225:44" rendition="simple:additions"/>
+ever viſited ſuch as had any <hi>votes</hi> in their <hi>Election,</hi> and by <hi>fair en<g ref="char:EOLhyphen"/>treaties</hi> endevoured to <hi>win</hi> them to their <hi>Side.</hi> The ſame we do by <hi>Prayer,</hi> we acknowledge the <hi>Supremacy</hi> that <hi>Chriſt</hi> hath over us, and that all our <hi>felicity</hi> de<g ref="char:EOLhyphen"/>pends upon his only Vote. Now as among the <hi>Gentiles</hi> ſome were called <hi>Platoniſts,</hi> others <hi>Ariſto<g ref="char:EOLhyphen"/>telians,</hi> and from the <hi>Maſters,</hi> they acknowledged their <hi>Inſtructors;</hi> ſo by practiſing this <hi>excellenteſt</hi> of <hi>virtues,</hi> we juſtly <hi>wear</hi> the <hi>name</hi> of him that taught it us.</p>
+            <p>Secondly, Let us <hi>pray,</hi> That we may not only ſhow our ſelves <hi>Chriſtians,</hi> but <hi>good</hi> and <hi>pious Chriſtians.</hi> How many are there in the <hi>World</hi> that paſs from <hi>month</hi> to <hi>month,</hi> yea, from <hi>year</hi> to
+<pb n="73" facs="tcp:97225:44"/>
+               <hi>year</hi> that ſcarce ever <hi>pray!</hi> as if there were neither a <hi>God</hi> to <hi>re<g ref="char:EOLhyphen"/>ward,</hi> nor a <hi>Devil</hi> to be his <hi>Ex<g ref="char:EOLhyphen"/>ecutioner;</hi> and yet, if you tell them they are not <hi>Chriſtians,</hi> they will eſteem you the moſt <hi>injuri<g ref="char:EOLhyphen"/>ous</hi> perſons in the world. But we muſt not be content with the bare name of <hi>Chriſtianity,</hi> and think it is enough that our Pa<g ref="char:EOLhyphen"/>rents brought us to the <hi>Font,</hi> and that there we received our <hi>Chri<g ref="char:EOLhyphen"/>ſtian Livery:</hi> We muſt come up to the <hi>life of chriſtianity,</hi> which is <hi>Prayer;</hi> it is <hi>that</hi> in the <hi>Soul</hi> which <hi>Springs</hi> are in <hi>Clocks</hi> and <hi>Watches,</hi> if they be <hi>broke,</hi> the <hi>motion</hi> of all the <hi>Wheels ceaſes;</hi> and if we devote not our <hi>ſelves</hi> to <hi>prayer,</hi> all our <hi>Theological vir<g ref="char:EOLhyphen"/>tues</hi> are <hi>idle,</hi> and as it were <hi>pin<g ref="char:EOLhyphen"/>nion'd</hi>
+               <pb n="74" facs="tcp:97225:45"/>
+in us; and therefore St. <hi>Chryſoſtome</hi> ſays excellently,<note place="margin">Tom. <hi>1.</hi> de fide.</note> as, when a <hi>Queen</hi> enters a <hi>city,</hi> not only a great <hi>Retinue,</hi> but an a<g ref="char:EOLhyphen"/>maſs of <hi>Wealth</hi> comes along with <hi>her;</hi> ſo likewiſe, when the <hi>Soul</hi> is enflamed with a <hi>love</hi> of <hi>prayer,</hi> all other virtues <hi>croud</hi> and <hi>throng</hi> in upon <hi>her:</hi> Of <hi>Men</hi> it makes us the <hi>Temples</hi> of <hi>Chriſt.</hi> Now as <hi>gold</hi> and <hi>precious ſtones,</hi> and the <hi>richeſt</hi> Marbles conſtitute the <hi>Palaces</hi> of <hi>Princes;</hi> ſo <hi>Prayer</hi> builds up theſe <hi>Temples</hi> of the <hi>Son</hi> of <hi>God,</hi> that he may dwell in our hearts as in a <hi>Sanctum Sanctorum,</hi> the <hi>nobleſt Seat</hi> of his <hi>Reſidence.</hi> That we may there<g ref="char:EOLhyphen"/>fore pray aright and like <hi>good chriſtians,</hi> that <hi>God</hi> may <hi>ceaſe</hi> the <hi>plague</hi> and <hi>heal</hi> our <hi>wounds,</hi>
+               <pb n="75" facs="tcp:97225:45"/>
+I ſhall ſhow you what <hi>qualifica<g ref="char:EOLhyphen"/>tions</hi> are neceſſary.</p>
+            <p>Firſt then, Our <hi>Prayer</hi> muſt <milestone type="tcpmilestone" unit="unspecified" n="1"/> be an earneſt <hi>fervent Prayer,</hi> it is St. <hi>James</hi> his character, <hi>The effectual fervent prayer of a righte<g ref="char:EOLhyphen"/>ous man availeth much;</hi> indeed, it peirceth heaven, and is <hi>Clavis Coeli</hi> as St. <hi>Bernard</hi> ſpeaks, <hi>the Key that unlocks the Treaſuries of heaven,</hi> that it may ſhowre down its <hi>bleſſings</hi> upon <hi>us.</hi> We may learn the Nature of this <hi>effectual Prayer</hi> from the <hi>Royal Prophet,</hi> when he ſays,<note place="margin">Pſ. 141.2.</note> 
+               <hi>Dirigatur Oratio mea ſicut incenſum in conſpectu tuo:</hi> Let my prayer be ſet before thee as Incenſe; in which words, he briefly <hi>comprehends</hi> all the requi<g ref="char:EOLhyphen"/>ſites of a <hi>fervent prayer</hi> by com<g ref="char:EOLhyphen"/>paring it to <hi>Incenſe.</hi>
+            </p>
+            <p>
+               <pb n="76" facs="tcp:97225:46"/>Firſt, In the <hi>Incenſe</hi> was <hi>Fran<g ref="char:EOLhyphen"/>kincenſe, Onyx, Galbanum, Oyle</hi> of <hi>Cinnamond,</hi> or <hi>Myrrh</hi> and <hi>Maſtich;</hi> ſo our <hi>Prayer,</hi> if it be <hi>effectually fervent,</hi> muſt be mingled with <hi>Faith, Humility, Charity, Confidence</hi> in <hi>God,</hi> and <hi>Patience; theſe,</hi> as <hi>leſſer Stars,</hi> muſt wait upon this <hi>Queen</hi> and <hi>Mother</hi> of <hi>virtues,</hi> this <hi>Breviary</hi> of the <hi>Goſpel.</hi>
+            </p>
+            <p>Secondly, This <hi>Incenſe</hi> was <hi>appropriated</hi> to the <hi>Temples,</hi> and <hi>lodged</hi> in the <hi>Holy of Holies;</hi> ſo likewiſe the <hi>Soul</hi> of <hi>Man</hi> is the <hi>Temple</hi> and <hi>Houſe</hi> of <hi>God,</hi> as St. <hi>Paul</hi> ſpeaks,<note place="margin">1 Cor. 3.16.</note> 
+               <hi>Know ye not that ye are the Temple of the Holy Ghoſt?</hi> we therefore muſt <hi>burn</hi> this <hi>In<g ref="char:EOLhyphen"/>cenſe</hi> of <hi>Prayer</hi> in the inward'ſt and pureſt part of this <hi>Temple.</hi>
+            </p>
+            <p>
+               <pb n="77" facs="tcp:97225:46"/>Thirdly, This <hi>Incenſe</hi> was to be <hi>offered</hi> by none but the <hi>High Prieſt;</hi> ſo likewiſe all our <hi>pray<g ref="char:EOLhyphen"/>ers</hi> muſt be <hi>offered</hi> up by our <hi>High Prieſt Chriſt Jeſus,</hi> if we <hi>hope</hi> they ſhall prevail; for upon this account the <hi>Church</hi> teaches us to conclude all our <hi>prayers</hi> with this <hi>clauſe, <hi>Through Ieſus Chriſt our Lord.</hi>
+               </hi>
+            </p>
+            <p>Fourthly, This <hi>Incenſe</hi> was to be <hi>fir'd,</hi> before its <hi>grateful per<g ref="char:EOLhyphen"/>fume</hi> could be <hi>ſented:</hi> If the <hi>High Prieſt</hi> flung never ſo many handfuls of it on <hi>dead coals</hi> there came forth no <hi>odour;</hi> ſo our <hi>Prayers</hi> are altogether <hi>frigid</hi> and no way <hi>pleaſing</hi> until <hi>kindled</hi> by the <hi>flames</hi> of the <hi>Spirit:</hi> where <hi>heat</hi> and <hi>fervour</hi> is wanting in him that <hi>prays,</hi> the very <hi>Soul</hi> of <hi>prayer</hi> is abſent.</p>
+            <p>
+               <pb n="78" facs="tcp:97225:47"/>Fifthly, (ſays <hi>David) Diri<g ref="char:EOLhyphen"/>gatur Oratio mea,</hi> &amp;c. let it mount, let it tend towards thee; he that will pray <hi>fervently</hi> and <hi>effectually,</hi> muſt have a <hi>good end,</hi> a <hi>ſincere intention,</hi> and a <hi>conſtant attention;</hi> he muſt not pray like <hi>Phariſees</hi> to be ſeen of men, that he may <hi>purchaſe</hi> the Repute of <hi>Religious</hi> and <hi>holy;</hi> he muſt make <hi>God</hi> and his <hi>intereſt</hi> his <hi>ultimate</hi> end; and therefore our Lord the <hi>Great Maſter</hi> of <hi>Prayer,</hi> ſays, <hi>When thou prayeſt enter into thy cloſet, and when thou haſt ſhut thy dore pray to thy Father which is in Secret:</hi> By which he would <hi>teach</hi> us rather to <hi>acquit</hi> our <hi>ſelves</hi> to <hi>God</hi> than <hi>Man,</hi> God only being able to <hi>reward</hi> our <hi>Integrity</hi> with better bleſſings than <hi>vulgar applauſe</hi> can afford.</p>
+            <p>
+               <pb n="79" facs="tcp:97225:47"/>Secondly, But in the ſecond <milestone type="tcpmilestone" unit="unspecified" n="2"/> place, as our Prayer muſt be <hi>earneſt</hi> and <hi>fervent,</hi> ſo it muſt be <hi>without ceaſing:</hi> If we would have a Truce with God's <hi>judgments,</hi> it is an argument of an <hi>evil heart</hi> to proportion our Prayers to the <hi>increaſe</hi> or <hi>decreaſe</hi> of <hi>Judgments;</hi> for though the rule in <hi>Philoſophy</hi> be, That <hi>Oratio</hi> is <hi>quantitas diſ<g ref="char:EOLhyphen"/>creta,</hi> yet in <hi>Divinity</hi> it is moſt certain, That <hi>Oratio</hi> ought to be <hi>quantitas continua,</hi> according to the <hi>Apoſtle</hi>'s Maxime, <hi>Pray continually;</hi> and indeed now,<note place="margin">1 Eph. 5.17.</note> if ever, we had need to be <hi>con<g ref="char:EOLhyphen"/>ſtant</hi> in Prayer, when <hi>thouſands</hi> dye in a <hi>week,</hi> and every <hi>pariſh,</hi> yea every <hi>ſtreet</hi> is the fatal <hi>Thea<g ref="char:EOLhyphen"/>tre</hi> of ſo many ſad <hi>Tragedies.</hi> Is not this a time of trouble, when
+<pb n="80" facs="tcp:97225:48"/>
+the rich and abler ſort are fled, <hi>citè, longè, tardè,</hi> and the poorer through neceſſity are oblieged to tarry, notwithſtanding infinite dangers ſurround them, their Servants, and their poor chil<g ref="char:EOLhyphen"/>dren! Is it not a time of trou<g ref="char:EOLhyphen"/>ble, when <hi>Tradeſmen</hi> become <hi>poor,</hi> and <hi>poverty</hi> enforces <hi>beggary,</hi> and that <hi>unhappy profeſſion</hi> cannot <hi>keep</hi> them from <hi>Starving!</hi> Is it not a time of trouble, when <hi>trade</hi> in <hi>general</hi> is ſo <hi>Dead</hi> that the <hi>Sex<g ref="char:EOLhyphen"/>ton</hi> and the <hi>Grave-maker</hi> have the moſt Employment in the <hi>pariſh!</hi> Surely this is a time of trouble, and <hi>this time</hi> is <hi>our time.</hi> O there<g ref="char:EOLhyphen"/>fore! let us take up holy <hi>David</hi>'s Reſolution, and give neither <hi>ſleep</hi> to our <hi>eyes</hi> nor <hi>ſlumber</hi> to our <hi>Eyelids,</hi> till the <hi>Lintells</hi> of
+<pb n="81" facs="tcp:97225:48"/>
+our <hi>dore-poſts</hi> are <hi>annointed</hi> with the <hi>blood of ſprinkling,</hi> that the deſtroying <hi>Angel</hi> may <hi>paſs over</hi> our <hi>habitations. Ask</hi> (and give not over) till you <hi>find, ſeek</hi> (and leave not) till you <hi>find, knock</hi> (and ceaſe not) till a <hi>dore</hi> of <hi>Salvation</hi> be opened unto you.</p>
+            <p n="3">3. But thirdly, We muſt <hi>lift</hi> up pure <hi>hearts</hi> and <hi>holy hands</hi> un<g ref="char:EOLhyphen"/>to <hi>God</hi> in <hi>Prayer.</hi> It is the work of the <hi>Seraphims</hi> to be continu<g ref="char:EOLhyphen"/>ally crying, <hi>Holy, Holy, Holy Lord God of Sabbaoth,</hi> to expreſs the ardent <hi>affection</hi> in them, and the ready adoration of the <hi>Ho<g ref="char:EOLhyphen"/>lyneſs</hi> ſo repeated by them, it being that noble <hi>attribute</hi> that indeed is only proper to <hi>God.</hi> Now if we would take a part in
+<pb n="82" facs="tcp:97225:49"/>
+this <hi>Seraphick Conſort,</hi> we muſt endevour to have <hi>holineſs</hi> and <hi>pu<g ref="char:EOLhyphen"/>rity</hi> in our <hi>hearts</hi> and <hi>hands,</hi> and then our <hi>addreſſes</hi> will be <hi>muſical</hi> in <hi>God</hi>'s <hi>Ears.</hi> To this purpoſe the <hi>Schoolman Victorinus</hi> obſerves, That a <hi>reaſonable Soul</hi> is the <hi>chief</hi> and <hi>principal glaſs</hi> wherein to ſee <hi>God:</hi>
+               <note place="margin">Ric. Victor. lib. de Pa<g ref="char:EOLhyphen"/>triar.</note> This the <hi>Iſrael</hi> of <hi>God</hi> muſt continually <hi>hold, wipe, look</hi> on; <hi>hold,</hi> leſt falling down it <hi>ſink</hi> to the <hi>Earth</hi> in <hi>love; wipe,</hi> leſt it be <hi>ſullied</hi> with the <hi>duſt</hi> of <hi>vain thoughts; look on,</hi> that it <hi>divert</hi> not the <hi>eye</hi> and intention to <hi>vain ſtudies.</hi> Can we hope that that Man's <hi>prayer</hi> ſhould be accepta<g ref="char:EOLhyphen"/>ble to <hi>God,</hi> whoſe <hi>heart</hi> in ſtead of being <hi>lifted up</hi> to the <hi>throne</hi> of <hi>Grace,</hi> is <hi>ſunk</hi> into the <hi>Earth</hi> by the <hi>love</hi> of <hi>Terrene</hi> pleaſures?
+<pb n="83" facs="tcp:97225:49"/>
+No, we muſt have <hi>hearts purifi<g ref="char:EOLhyphen"/>ed</hi> with the fire of <hi>Divine love,</hi> and <hi>hands waſh'd</hi> in <hi>innocency</hi> be<g ref="char:EOLhyphen"/>fore we can be acceptable. Under the <hi>Law</hi> the <hi>burnt offerings</hi> were to be <hi>flea'd,</hi> and <hi>cut</hi> in peices, and their <hi>Legs</hi> and <hi>Inwards</hi> were to be <hi>waſh'd:</hi> Upon which Saint <hi>Cyril</hi> of <hi>Alexandria</hi> ſays, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> The <hi>fleaing</hi> off the <hi>Skin</hi> was a riddle of <hi>naked diſcovery,</hi>
+               <note place="margin">Hom. Paſc. <hi>22.</hi> p. <hi>240.</hi>
+               </note> for nothing at all in us is <hi>hid</hi> or <hi>veiled</hi> from the <hi>Di<g ref="char:EOLhyphen"/>vine</hi> and <hi>pure eyes</hi> of God. We muſt not be content with the <hi>ſu<g ref="char:EOLhyphen"/>perficies</hi> and <hi>out-ſide</hi> of a <hi>good life,</hi> but we muſt <hi>flea</hi> our <hi>Sacrifices</hi> and look to the Integrity of our <hi>inwards;</hi> we muſt as it were cut our ſelves in peices by a <hi>ſtrict ex<g ref="char:EOLhyphen"/>amination</hi> of the <hi>particular actions</hi>
+               <pb n="84" facs="tcp:97225:50"/>
+of our <hi>whole life;</hi> whatever be<g ref="char:EOLhyphen"/>longs to us, our <hi>deſires,</hi> our <hi>thoughts,</hi> all muſt be <hi>purified,</hi> if we would have our <hi>Sacrifice</hi> Grateful. How many are there in the World that make <hi>long prayers, yet devour Widows hou<g ref="char:EOLhyphen"/>ſes?</hi> How many that have no<g ref="char:EOLhyphen"/>thing in their mouths but <hi>Goſpel light,</hi> and the <hi>advancement</hi> of the <hi>Kingdom</hi> of <hi>Chriſt,</hi> yet, do but <hi>flea</hi> them, and you ſhall find them full of <hi>Avarice, Pride, Faction,</hi> and the greateſt <hi>uncharitableneſs. Godfrey</hi> of <hi>Bulloine</hi> being asked by the Ambaſſador of a <hi>Sarazen</hi> Prince how he had his hands, <hi>tam doctas ad praeliandum,</hi> ſo able to fight? returned this anſwer, <hi>Quia manus ſemper habui puras ab impu<g ref="char:EOLhyphen"/>ris contractibus peccati;</hi> Becauſe
+<pb n="85" facs="tcp:97225:50"/>
+I never defiled my hands with any notorious Sin. Our <hi>Prayers</hi> will never be <hi>prevalent</hi> with God until we firſt <hi>combat</hi> and <hi>foyle our own Sins.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Plato</hi> defines <hi>Purity</hi> a <hi>Separation</hi> of the <hi>worſe</hi> from the <hi>better.</hi> We muſt in a good ſenſe be <hi>Separatiſts,</hi> and come out of <hi>Babylon,</hi> before we can be fit company for the <hi>Lamb;</hi> and when we have once done this, we may confidently hope a <hi>relaxation</hi> of our <hi>miſeries,</hi> and that God will <hi>hear from heaven, forgive our Sins, and heal our Land.</hi>
+            </p>
+            <p>And ſo I come to the third In<g ref="char:EOLhyphen"/>gredient in the Text, <hi>Repentance: If my people humble themſelves, and pray, and turn from their evil ways, then will I hear from heaven, and will forgive their Sin, and will
+<pb n="86" facs="tcp:97225:51"/>
+heal their Land.</hi> In the <hi>Pythian</hi> and <hi>Olympick Games,</hi> the <hi>Conten<g ref="char:EOLhyphen"/>ders</hi> for <hi>honour</hi> and <hi>renown</hi> had their way chalk'd out with two white Liſts, out of which they were not to ſalley; ſo it was with <hi>Adam</hi> in <hi>Paradice,</hi> his <hi>via morum</hi> was rayled in with <hi>In<g ref="char:EOLhyphen"/>nocence,</hi> aſwell as his <hi>via pe<g ref="char:EOLhyphen"/>dum</hi> adorned with <hi>Flowers</hi> and other delightful Objects; but he having leap'd over the pale, by <hi>eating the forbidden fruit,</hi> took upon him the Trade of <hi>wandring</hi> into <hi>by-paths,</hi> and his <hi>children</hi> (like ſo many <hi>Gypſies</hi>) have ever ſince exerciſed the ſame Profeſ<g ref="char:EOLhyphen"/>ſion. I have heard of ſome that they have been ſo much in love with the <hi>wandring humour,</hi> that though they have been <hi>heirs</hi>
+               <pb n="87" facs="tcp:97225:51"/>
+to <hi>good fortunes,</hi> yet they have conſorted themſelves with the <hi>begging Crew,</hi> only to have the Liberty of <hi>roving up and down:</hi> And thus it is with <hi>man</hi> gene<g ref="char:EOLhyphen"/>rally as to his <hi>Spiritual</hi> condition; though <hi>God</hi> hath elevated us to the dignity of <hi>Sons-ſhip,</hi> and <hi>Chriſt</hi> accepted the Title of our <hi>elder Brother,</hi> yet we have <hi>ſtrayed</hi> a<g ref="char:EOLhyphen"/>way from his <hi>bleſſed Company,</hi> and that <hi>heavenly inheritance</hi> he pur<g ref="char:EOLhyphen"/>chaſed for us with his <hi>blood:</hi> We have taken more delight in the <hi>meanders</hi> of <hi>Sin</hi> and <hi>folly,</hi> that can afford us nothing of <hi>ſollid worth,</hi> than in thoſe durable and <hi>eternal riches</hi> of <hi>Grace</hi> and <hi>Holyneſs.</hi> Upon this ſcore it is that the Text ſaith, <hi>If my people turn from their evil ways,</hi> (which implyes
+<pb n="88" facs="tcp:97225:52"/>
+they were out of the way of God, and altogether journying the Mazes of <hi>Idolatry</hi> and <hi>Sin) that God would heal and redreſs the miſeries that for ſuch deviations were come upon them.</hi> But becauſe I will ſpeak more diſtinctly of <hi>Repentance,</hi> I ſhall conſider it in its three parts;
+<list>
+                  <item>1. <hi>Compunction:</hi> or <hi>Contrition for Sin.</hi>
+                  </item>
+                  <item>2. <hi>Confeſſion of Sin.</hi>
+                  </item>
+                  <item>3. <hi>Converſion from Sin to God.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Firſt, <hi>Compunction</hi> or <hi>Contri<g ref="char:EOLhyphen"/>tion:</hi> And now how happy ſhould I be, if my diſcourſe to you at this time could have the ſame operation on your <hi>hearts</hi> that St. <hi>Peter</hi>'s <hi>Sermon</hi> had upon
+<pb n="89" facs="tcp:97225:52"/>
+his <hi>Auditors,</hi> as St. <hi>Luke</hi> deſcribes it in the <hi>ſecond</hi> of the <hi>Acts</hi> and the 37. <hi>verſ.</hi> where it is ſaid, <hi>Now when they heard this they were pricked in their hearts, and ſaid unto</hi> Peter <hi>and the reſt of the A<g ref="char:EOLhyphen"/>poſtles, Men and Brethren what ſhall we do?</hi> A <hi>true</hi> and <hi>holy Sorrow,</hi> like ſo many Needles, <hi>peirced</hi> them thorough; as <hi>Eupolis</hi> recounts of <hi>Pericles</hi>'s Oration to the People of <hi>Athens;</hi>
+               <note place="margin">Cicero de Clar. Orat.</note> 
+               <hi>In animis auditorum aculeos reliquit,</hi> it left ſtings in his Auditors minds. Now that we may a little conſider the phraſe, we muſt make a diffe<g ref="char:EOLhyphen"/>rence between <hi>ſpiritus compuncti<g ref="char:EOLhyphen"/>onis,</hi> and <hi>compunctio ſpiritus,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a <hi>Spirit of Compunction,</hi> which St. <hi>Paul</hi> complains of in the un<g ref="char:EOLhyphen"/>believing<note place="margin">Rom. 11.8.</note>
+               <pb n="90" facs="tcp:97225:53"/>
+believing <hi>Jews,</hi> and <hi>Compunction of Spirit</hi> or of the <hi>heart,</hi> men<g ref="char:EOLhyphen"/>tioned in this place of the <hi>Acts,</hi> St. <hi>Paul</hi> ſays, <hi>God hath given them a Spirit of Slumber, eyes that they ſhould not ſee, and ears that they ſhould not hear unto this day;</hi> as if he would ſay, they are poſſeſt with a <hi>Spirit</hi> of <hi>ſtupidity</hi> and <hi>ob<g ref="char:EOLhyphen"/>ſtinacy</hi> in <hi>Sin,</hi> that <hi>ſlaſh</hi> and <hi>wound</hi> them never ſo, yet they will not be <hi>ſenſible;</hi> but this <hi>compunction</hi> or <hi>pricking</hi> of the <hi>heart,</hi> which St. <hi>Peter</hi>'s Auditors endured, was a <hi>godly Sorrow</hi> for their <hi>Sins,</hi> and ſight of their miſerable Condi<g ref="char:EOLhyphen"/>tion. Now <hi>Lorinus</hi> affords us a <hi>ternary</hi> of <hi>reaſons</hi> why <hi>godly Sor<g ref="char:EOLhyphen"/>row</hi> for <hi>Sin</hi> is called <hi>compunction of the heart.</hi>
+               <note place="margin">Act. C. 2.</note>
+            </p>
+            <list>
+               <pb n="91" facs="tcp:97225:53"/>
+               <item>1. <hi>Quia vel aperitur Cordis apo<g ref="char:EOLhyphen"/>ſtema.</hi>
+               </item>
+               <item>2. <hi>Vel quia vulneratur Cor amore Dei.</hi>
+               </item>
+               <item>3. <hi>Vel quia daemon dolore &amp; invi<g ref="char:EOLhyphen"/>dia ſauciatur.</hi>
+               </item>
+            </list>
+            <p>Either becauſe the <hi>corruption</hi> of the <hi>heart</hi> is diſcovered, as an <hi>Apoſteme</hi> or <hi>
+                  <g ref="char:V">Ʋ</g>lcer</hi> is opened by the <hi>prick</hi> of a <hi>Launce.</hi>
+            </p>
+            <p>Or becauſe the <hi>heart</hi> is <hi>woun<g ref="char:EOLhyphen"/>ded</hi> with the <hi>love</hi> of <hi>God,</hi> as the <hi>Spouſe</hi> in the <hi>Canticles</hi> cries out, <hi>I am ſick of Love.</hi>
+            </p>
+            <p>Or becauſe thereby the <hi>Devil</hi> is <hi>wounded</hi> with <hi>Indignation</hi> and <hi>Envy,</hi> as knowing the ruine of his <hi>Intereſt</hi> and <hi>Kingdome</hi> muſt needs be <hi>cauſed,</hi> when <hi>Sinners</hi> return to <hi>God,</hi> the Centre of their happineſs, from which they re<g ref="char:EOLhyphen"/>coyled.
+<pb n="92" facs="tcp:97225:54"/>
+But if any one ask me the reaſon why they were thus <hi>pricked,</hi> thus <hi>wounded at the heart,</hi> the 23. &amp; 24. Verſes of the <hi>ſecond</hi> of the <hi>Acts</hi> will tell us, <hi>him, being delivered by the de<g ref="char:EOLhyphen"/>terminate counſel and foreknowledg of God, Ye have taken, and by wicked hands have crucified and ſlain.</hi> It was high time for the <hi>Jews</hi> to be <hi>touched to the quick</hi> that had put to death the <hi>Lord</hi> of <hi>Life,</hi> their <hi>Meſſiah,</hi> and <hi>Saviour</hi> of the <hi>World.</hi> And truly, if we <hi>reflect</hi> aright upon our <hi>ſelves,</hi> we ſhall find it high time for us to be thus <hi>wounded,</hi> if we conſider that the <hi>Jews</hi> did but once <hi>cru<g ref="char:EOLhyphen"/>cifie</hi> him; but <hi>We,</hi> by the <hi>commit<g ref="char:EOLhyphen"/>tal</hi> of <hi>freſh ſins</hi> and Impieties, <hi>cru<g ref="char:EOLhyphen"/>cifie</hi> him every day, and <hi>grieve</hi> his
+<pb n="93" facs="tcp:97225:54"/>
+               <hi>holy Spirit.</hi> It is therefore infinitly neceſſary we ſhould have this due ſenſe, this holy <hi>wounding</hi> of <hi>heart,</hi> if we expect God ſhould repent of the evil done unto us and heal our Land.</p>
+            <p n="2">2. The ſecond branch of <hi>Re<g ref="char:EOLhyphen"/>pentance</hi> is <hi>Confeſſion.</hi>
+            </p>
+            <p>As we muſt be <hi>ſorrowful</hi> for <hi>ſin,</hi> ſo we muſt make a true <hi>confeſſion</hi> of <hi>ſin:</hi> Now in <hi>confeſſion</hi> we muſt obſerve theſe Rules;</p>
+            <p>Firſt, Our <hi>confeſſion</hi> muſt be humble and ſelf-accuſing, <hi>Non vis ut ille damnet? Tu damna. Vis ut ille ignoſcat? Tu agnoſce.</hi> Wouldſt thou not that God ſhould Condemn thee? condemn thy ſelf. Say with the <hi>Publican, Lord have mercy upon me a ſinner.</hi> Wouldſt thou have God <hi>pardon?</hi>
+               <pb n="94" facs="tcp:97225:55"/>
+Do thou crye <hi>guilty.</hi> We muſt not imitate our Grandfather <hi>A<g ref="char:EOLhyphen"/>dam,</hi> that cryed, <hi>The Woman thou gaveſt me preſented me the fruit, and I did eat.</hi> We muſt take the <hi>ſins</hi> we have com<g ref="char:EOLhyphen"/>mitted upon our <hi>ſelves;</hi> it being altogether unjuſt we ſhould file that <hi>Evil</hi> on <hi>anothers ſcore</hi> of which <hi>we</hi> have been the <hi>Authors.</hi> How many are there in theſe days that when they are accuſed of any <hi>
+                  <g ref="char:V">Ʋ</g>ncleanneſs,</hi> lay the fault upon <hi>Nature,</hi> as St. <hi>Auſtin</hi> com<g ref="char:EOLhyphen"/>plains, many in his time did, and conſequently accuſe <hi>God</hi> him<g ref="char:EOLhyphen"/>ſelf. We ought rather, with the Prophet <hi>David,</hi> to cry out, <hi>Lord, it is I that have done this Great Wickedneſs;</hi> and, with <hi>Jeremiah,</hi> confeſs <hi>our ways</hi> and <hi>our Evil do<g ref="char:EOLhyphen"/>ings</hi>
+               <pb n="95" facs="tcp:97225:55"/>
+have brought all theſe <hi>mi<g ref="char:EOLhyphen"/>ſeries</hi> upon us.</p>
+            <p>Secondly, We muſt not put our <hi>ſins</hi> to the <hi>Devil</hi>'s Account. He may <hi>tempt</hi> us, but he cannot <hi>force</hi> us to <hi>ſin.</hi> The <hi>Devil</hi> might have offered <hi>Eve</hi> a thouſand of thoſe <hi>beautiful Apples</hi> without <hi>prevailing,</hi> had ſhe not been as willing to <hi>taſt</hi> that <hi>forbidden fruit</hi> as he ready to <hi>perſwade her</hi> it was good. If he could force us to <hi>ſin,</hi> we might juſtly lay the <hi>fault</hi> at his dore, and make the very <hi>neceſſity</hi> of <hi>ſinning</hi> our <hi>Apology.</hi> But the Apoſtle St. <hi>James</hi> bids us <hi>reſiſt the Devil and he will fly from us:</hi> to teach us we have a pow<g ref="char:EOLhyphen"/>er to <hi>combat,</hi> and through <hi>Grace baffle</hi> his pernicious temptations.</p>
+            <p>
+               <pb n="96" facs="tcp:97225:56"/>Thirdly, Neither muſt we make <hi>God</hi> the Author of our <hi>ſins:</hi> He is a <hi>God of purer eyes than to behold iniquity;</hi> and what <hi>blaſphemy</hi> would it be in us when we have committed <hi>ſins</hi> (that even ſome <hi>natural men</hi> would ab<g ref="char:EOLhyphen"/>hor) to father them upon God, the ſource of all purity and goodneſs. The <hi>Pſalmiſt</hi> ſteers another courſe, when he ſays, <hi>I will confeſs my ſins unto the Lord;</hi>
+               <note place="margin">Pſal. 32.</note> He doth not ſay he will <hi>accuſe</hi> God as the <hi>author</hi> of his <hi>Luſt</hi> to the Wife of <hi>
+                  <g ref="char:V">Ʋ</g>riah,</hi> or of his <hi>Pride</hi> in <hi>numbering</hi> the <hi>people;</hi> no, but I will <hi>confeſs</hi> to <hi>him</hi> againſt <hi>my ſelf, he is righteous, and I have done wickedly.</hi> God cannot be tempted to <hi>evil,</hi> neither tempts <hi>he</hi> any man, it is a principle of
+<pb n="97" facs="tcp:97225:56"/>
+               <hi>corruption</hi> within us, that brings forth this viperous brood, and we muſt wholly acknowledge <hi>God</hi> righteous when he puniſheth for <hi>Sin.</hi>
+            </p>
+            <p>Fourthly, Our <hi>Confeſſion</hi> muſt be <hi>Integra &amp; perfecta.</hi> There are many that will be ready to acknowledge thoſe Sins which they ſee the beſt of Men are obnoxious to; but their <hi>Dalli<g ref="char:EOLhyphen"/>lah's,</hi> their <hi>darling Sins,</hi> like the true name of <hi>Rome,</hi> they keep concealed. But this is not the <hi>Confeſſion</hi> that will do our work; a lame <hi>half-confeſſion</hi> is no more acceptable to <hi>God,</hi> than if we ſhould offer him <hi>half</hi> our <hi>heart,</hi> when he requires the <hi>whole; Thou ſhalt love the Lord thy God with all thy heart;</hi> which he can never
+<pb n="98" facs="tcp:97225:57"/>
+truly be ſaid to do that leaves ſome Sins <hi>unconfeſs'd,</hi> and as it were hid in the inward receſſes of his Soul; becauſe God being a profeſs'd enemy to every Sin, ſuch a concealment is a taking part with that which he moſt hates.</p>
+            <p>Thirdly, The third part of <hi>Repentance</hi> is <hi>Converſion:</hi> Now there is a two-fold <hi>Converſion.</hi>
+            </p>
+            <p n="1">1. A <hi>Turning</hi> and total <hi>Conver<g ref="char:EOLhyphen"/>ſion</hi> of a <hi>Sinner</hi> from <hi>Sin</hi> to <hi>God,</hi> and in this Signification is com<g ref="char:EOLhyphen"/>prehended the whole work of <hi>Grace, Pſal.</hi> 51.14. <hi>And Sinners ſhall be converted unto thee;</hi> this is <hi>paſſive Converſion,</hi> wherein <hi>God</hi> is the Chief <hi>Agent,</hi> but our <hi>ſelves</hi> by our <hi>natural power</hi> work no<g ref="char:EOLhyphen"/>thing, unleſs it be to hinder the work of <hi>Grace.</hi>
+            </p>
+            <p n="2">
+               <pb n="99" facs="tcp:97225:57"/>2. There is a turning from ſome particular Sin or Sins, whereby we have offended <hi>God</hi> or <hi>Man; Luke</hi> 22.32. <hi>When thou art converted;</hi> and <hi>Jer.</hi> 31.18. <hi>Convert thou me and I ſhall be converted:</hi> This is an <hi>active Con<g ref="char:EOLhyphen"/>verſion</hi> performed by <hi>men,</hi> who being already <hi>renewed</hi> by <hi>Grace,</hi> do work together with this <hi>Grace.</hi> Now this <hi>converſion</hi> is a turning of the <hi>heart</hi> unto <hi>God,</hi> whereby we contract a perfect averſion to thoſe things which we formerly delighted in, and have ſuch an alteration in our <hi>will</hi> and <hi>affections,</hi> that we de<g ref="char:EOLhyphen"/>ſire nothing, and affect nothing but what we find agreeable to his <hi>bleſſed will.</hi> It is not a turn<g ref="char:EOLhyphen"/>ing of the <hi>Brain,</hi> an alteration
+<pb n="100" facs="tcp:97225:58"/>
+of this or that opinion; that is <hi>Vertigo Capitis,</hi> not <hi>Converſio Cordis:</hi> but it is a meer altera<g ref="char:EOLhyphen"/>tion and turning of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of our <hi>hearts.</hi> So that the perfection of <hi>this converſion</hi> conſiſts in the turning of the <hi>whole heart.</hi> This true <hi>turning</hi> is a thing no way <hi>pleaſing</hi> to the <hi>Devil.</hi> If he <hi>could,</hi> he <hi>would</hi> not have us <hi>turn</hi> at all, he ſowes pillows under our Elbows, and perſwades us we are in a <hi>bleſſed condition:</hi> but if we will needs <hi>turn,</hi> he will perſuade us to Turn <hi>any whether,</hi> rather than unto <hi>God.</hi> If he cannot effect this, yet his Arti<g ref="char:EOLhyphen"/>fice and cunning is to make us leave our <hi>hearts</hi> behind. Now if that will not do, but we will <hi>Turn</hi> with our heart <hi>in Corde,</hi> yet
+<pb n="101" facs="tcp:97225:58"/>
+he labours all he can it may not be <hi>in toto:</hi> he would have us have ſome <hi>private</hi> ends, ſome <hi>Luſts</hi> to <hi>gratifie;</hi> he would have our <hi>affections broken,</hi> and not <hi>en<g ref="char:EOLhyphen"/>tirely ſubſervient</hi> to the <hi>Divine Will.</hi> But (Beloved) if we would <hi>remove</hi> theſe <hi>judgments</hi> that lye <hi>heavy</hi> upon us, we muſt not <hi>divide</hi> our <hi>hearts</hi> between <hi>God</hi> and the <hi>Devil,</hi> but muſt <hi>turn</hi> to <hi>God</hi> with our <hi>whole hearts</hi> for he is the great <hi>Phyſician</hi> that only can <hi>heal</hi> our <hi>diſeaſed Souls.</hi>
+            </p>
+            <p>And thus I come to the fourth and laſt Branch of the Text, the <hi>Phyſician preſcribing the Medicine, GOD;</hi> in theſe words, <hi>I will hear from heaven, and will forgive their Sin, and will heal their Land.</hi>
+               <pb n="102" facs="tcp:97225:59"/>
+St. <hi>Chryſoſtome</hi> tells us, that <hi>Chriſt</hi> the <hi>ſecond perſon</hi> of the <hi>Trinity,</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) by his <hi>death</hi> became <hi>Phyſician</hi> of the <hi>Dead;</hi> in his very <hi>humility</hi> and ſtate of <hi>Exinanition</hi> he <hi>baffled Sin,</hi> and <hi>Death,</hi> and the <hi>Balſam</hi> of his <hi>Blood</hi> ſhed upon the <hi>Croſs, cloſed up the Serpentine wound</hi> received in <hi>Paradice.</hi> If this be true of <hi>Chriſt</hi> (as without doubt it is) whileſt he was in the form of a <hi>Servant,</hi> we ought not to que<g ref="char:EOLhyphen"/>ſtion the performance of the promiſe made us in my Text by the whole Trinity. <hi>I will hear from heaven,</hi> &amp;c. I, <hi>God the Father,</hi> I, <hi>God the Son,</hi> I, <hi>God the Holy Ghoſt;</hi> I <hi>one,</hi> yet <hi>three,</hi> at whoſe preſence the <hi>Angels veil</hi> their <hi>faces,</hi> by whoſe only <hi>Fiat</hi>
+               <pb n="103" facs="tcp:97225:59"/>
+the <hi>Chaos</hi> was <hi>un-masked,</hi> and to whoſe <hi>bounty</hi> all the ſeveral <hi>ſpe<g ref="char:EOLhyphen"/>cies</hi> of <hi>creatures</hi> owe their <hi>Beeing: I will hear from heaven; forgive, and heal your Land.</hi> Other <hi>Phyſi<g ref="char:EOLhyphen"/>cians,</hi> either out of hope of gain, or to buoy up their credits and repute in the <hi>World,</hi> promiſe thoſe <hi>cures</hi> which they can never <hi>perform:</hi> But here is one whoſe <hi>Word</hi> is his <hi>Deed,</hi> that <hi>Archety<g ref="char:EOLhyphen"/>pal</hi> verity, who having the Iſſues of <hi>Life</hi> and <hi>Death</hi> in his hand, when he promiſes <hi>Life</hi> cannot be guilty of a <hi>Lye,</hi> and when he threatens <hi>death</hi> upon impeni<g ref="char:EOLhyphen"/>tency will <hi>ſurely inflict</hi> it. So then, here is a Conjunction of the whole <hi>Trinity</hi> in the <hi>Cure</hi> promi<g ref="char:EOLhyphen"/>ſed, the <hi>perfection</hi> of which will appear in <hi>three particulars.</hi>
+            </p>
+            <p n="1">
+               <pb n="104" facs="tcp:97225:60"/>1. <hi>God</hi> will cure us <hi>corporally.</hi> When he ſent his <hi>beloved Son</hi> to preach the <hi>Goſpel</hi> of <hi>Eternal Life,</hi> many <hi>heard</hi> him, but were little moved with the <hi>Excellency</hi> of his <hi>Embaſſie;</hi> but when he came to thoſe <hi>ſenſitive</hi> and <hi>ocular</hi> demon<g ref="char:EOLhyphen"/>ſtrations of his <hi>power,</hi> the <hi>heal<g ref="char:EOLhyphen"/>ing of the Sick,</hi> and <hi>feeding the Multitude by miracle,</hi> many then were <hi>induced</hi> to believe in him: S. <hi>Matthew</hi> tells us, that he healed all that were Sick. <hi>At his word the Blind found eyes,</hi> the <hi>lame flung away their Crutches,</hi> the <hi>Paralytick</hi> and ſuch as were troubled with an <hi>effuſion</hi> of <hi>Blood,</hi> found that virtue proceeding from him which effected their <hi>cure.</hi> If the <hi>touch</hi> of his <hi>garment</hi> were ſo <hi>bal<g ref="char:EOLhyphen"/>ſamical,</hi> that of his <hi>voice</hi> had a
+<pb n="105" facs="tcp:97225:60"/>
+               <hi>greater power;</hi> for <hi>Lazarus</hi> though rotting four days in his grave, at <hi>Chriſt</hi>'s <hi>firſt call</hi> quitted his <hi>cold Manſion,</hi> and <hi>conquered Death</hi> ſurrendred his <hi>Priſoner,</hi> at the Command of this great <hi>Prince.</hi> The <hi>Platoniſt</hi> ſay, <hi>Lumen eſt <g ref="char:V">Ʋ</g>m<g ref="char:EOLhyphen"/>bra Dei,</hi> Light is but the ſhadow of God; and I may very well affirm, that the Learned'ſt <hi>Phy<g ref="char:EOLhyphen"/>ſicians</hi> are but <hi>ſhadows</hi> of this <hi>Sun of righteouſneſs,</hi> when he ap<g ref="char:EOLhyphen"/>pears with <hi>healing in his wings.</hi> Have we the <hi>plague ſpots</hi> upon us? If God will be our <hi>Phyſician</hi> their very <hi>redneſs</hi> ſhall ſerve for a <hi>bluſh</hi> to confeſs their impotency when he bids them vaniſh. Does a <hi>Feaver</hi> burn us, or a <hi>Dropſie</hi> drown us? One word of his mouth will prove a <hi>Julip</hi> to cool
+<pb n="106" facs="tcp:97225:61"/>
+our <hi>veins,</hi> and a <hi>Sluce</hi> to let out that <hi>Lake</hi> of humours which would engulph us. If we be once <hi>penitentially</hi> quallified, <hi>He will hear us, He will heal us.</hi> Let us therefore look upon this <hi>Viſi<g ref="char:EOLhyphen"/>tation</hi> with a <hi>Spiritual eye;</hi> Let us, that <hi>God</hi> yet <hi>ſpares,</hi> learn to be <hi>better,</hi> leſt thoſe <hi>Princes</hi> of <hi>Pe<g ref="char:EOLhyphen"/>ru</hi> in <hi>America</hi> (meer <hi>Heathens</hi>) at the day of <hi>Judgment,</hi> riſe up againſt us, who accounted Sick<g ref="char:EOLhyphen"/>neſs, <hi>Nuncios coeli quibus ſe ad Deos acciri dicebant,</hi> God's Meſ<g ref="char:EOLhyphen"/>ſengers by which he would draw them to himſelf, (as <hi>Nierember<g ref="char:EOLhyphen"/>gius</hi> reports) He brings us into the <hi>School</hi> of <hi>Affliction,</hi>
+               <note place="margin">Hiſt. Nat.</note> that we might <hi>learn Wiſdome.</hi> And as he will <hi>heal</hi> us, ſo he will the <hi>diſeaſes</hi> in the <hi>creatures</hi> that
+<pb n="107" facs="tcp:97225:61"/>
+contribute to the maintenance of our Lives. Is the <hi>Air infe<g ref="char:EOLhyphen"/>cted?</hi> He will <hi>purge</hi> it. Is the <hi>fruit blaſted?</hi> He will ſtop <hi>Mil<g ref="char:EOLhyphen"/>dews,</hi> and what ever hinders a plentiful <hi>Vegitation.</hi> Doth the <hi>Murrain</hi> conſume <hi>Cattle?</hi> That ſhall likewiſe ceaſe. In a word, whatever impleads our <hi>temporal enjoyments,</hi> upon our <hi>Repentance,</hi> like <hi>Duſt,</hi> ſhall be <hi>driven away</hi> before the <hi>Wind.</hi>
+            </p>
+            <p n="2">2. <hi>God</hi> will <hi>cure</hi> us <hi>Spiritully.</hi> The wounds of the <hi>Soul</hi> are <hi>in<g ref="char:EOLhyphen"/>finitely</hi> more <hi>conſiderable</hi> than thoſe of the <hi>Body,</hi> and there<g ref="char:EOLhyphen"/>fore <hi>David,</hi> who (as St. <hi>Chry<g ref="char:EOLhyphen"/>ſoſtom</hi> ſpeaks, was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>One</hi> that <hi>lived</hi> as <hi>ſtrictly</hi> in his Kingly <hi>Pallace,</hi> as in a <hi>Cloyſter</hi>)
+<pb n="108" facs="tcp:97225:62"/>
+cries out,<note place="margin">Pſ. 41.4.</note> 
+               <hi>Heal my Soul for I have ſinned againſt thee.</hi> And indeed, he had great <hi>reaſon</hi> to <hi>do</hi> ſo, for he that had <hi>victoriouſly</hi> encoun<g ref="char:EOLhyphen"/>tred the <hi>Lyon,</hi> the <hi>Bear, Goliah</hi> and an <hi>hoſt</hi> of <hi>Men,</hi> was now <hi>broken</hi> by a <hi>feminine</hi> temptation, and become <hi>guilty</hi> of thoſe <hi>Soul</hi>-wounding <hi>Sins, Adultery</hi> and <hi>Murther.</hi> Now as <hi>David</hi> made his Addreſs to <hi>God,</hi> the only <hi>Soul-Phyſician,</hi> ſo let us, for he can certainly <hi>reſtore</hi> and <hi>heal.</hi>
+            </p>
+            <p>This <hi>Soul-cure</hi> he will per<g ref="char:EOLhyphen"/>form.</p>
+            <p>Firſt, By <hi>healing</hi> our <hi>irregular affections,</hi> which can by no leſs <hi>powerful</hi> means be <hi>effected,</hi> than the <hi>communication</hi> of his <hi>Grace.</hi> For if <hi>Adam</hi> in <hi>Paradice,</hi> richly <hi>furniſhed</hi> with <hi>ſupernatural gifts,</hi>
+               <pb n="109" facs="tcp:97225:62"/>
+continued but a <hi>poor</hi> while in that <hi>purity</hi> and excellent <hi>condi<g ref="char:EOLhyphen"/>tion;</hi> how much leſs can <hi>nature,</hi> wounded with <hi>Sin,</hi> without the <hi>aſſiſtance</hi> of <hi>ſupernatural endow<g ref="char:EOLhyphen"/>ments,</hi> recover her former <hi>puri<g ref="char:EOLhyphen"/>ty?</hi> I ſhall not <hi>deny,</hi> but a vigo<g ref="char:EOLhyphen"/>rous <hi>reaſon</hi> may help a man to ac<g ref="char:EOLhyphen"/>quire thoſe <hi>virtuous habits</hi> which may <hi>cauſe</hi> a <hi>promptitude</hi> in the <hi>affections</hi> to <hi>virtuous actions,</hi> yet thoſe <hi>Acts</hi> of <hi>virtue</hi> will be ſo poor and imperfect, that they can never bring him to <hi>eternal felicity. Actions</hi> that <hi>ſpring</hi> from <hi>Grace,</hi> do as far <hi>excel</hi> thoſe that are the <hi>Iſſue</hi> of <hi>Nature</hi> (though never ſo morallized) as <hi>fruits</hi> that are <hi>ripened</hi> in the <hi>woods</hi> and <hi>fields</hi> by the <hi>beams</hi> of the <hi>Sun,</hi> do thoſe that are brought forth by
+<pb n="110" facs="tcp:97225:63"/>
+artificial <hi>fires. Grace</hi> changes the <hi>affections</hi> powerfully, and ren<g ref="char:EOLhyphen"/>ders them as it were <hi>new</hi> affecti<g ref="char:EOLhyphen"/>ons, according to St. <hi>Paul, If a Man be in Chriſt he is a new crea<g ref="char:EOLhyphen"/>ture.</hi> Not that our <hi>affections</hi> in this <hi>life</hi> are <hi>totally healed</hi> by <hi>grace,</hi> there will be <hi>luſting</hi> of the <hi>Fleſh</hi> againſt the <hi>Spirit,</hi> in the moſt <hi>gracious</hi> perſons; but thoſe In<g ref="char:EOLhyphen"/>ſurrections and Tumults are ra<g ref="char:EOLhyphen"/>ther ſuffered by <hi>God</hi> as a <hi>Tryal,</hi> than a <hi>deſtruction</hi> to his <hi>children. Inordinate affections</hi> ſhall be ſo <hi>healed</hi> in this <hi>life,</hi> that they ſhall <hi>loſe</hi> their <hi>Empire,</hi> though not their <hi>Beeing;</hi> when they begin to rebel, <hi>Grace</hi> will be able to ſub<g ref="char:EOLhyphen"/>due and triumph over them.</p>
+            <p>Secondly, By <hi>healing</hi> our <hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>derſtanding.</hi> At firſt, when man
+<pb n="111" facs="tcp:97225:63"/>
+enjoyed his Integrity, the <hi>
+                  <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>derſtanding</hi> did naturally appre<g ref="char:EOLhyphen"/>hend <hi>truth</hi> with the greateſt fa<g ref="char:EOLhyphen"/>cility; and as when our <hi>eye</hi> looks upon ſome <hi>curious</hi> piece of <hi>Pain<g ref="char:EOLhyphen"/>ting, Sculpture,</hi> or any other <hi>beautiful object,</hi> it is highly <hi>plea<g ref="char:EOLhyphen"/>ſed;</hi> ſo the <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding,</hi> when it look'd upon <hi>Truth,</hi> received great <hi>Satisfaction,</hi> and the more <hi>ſublime</hi> and <hi>excellent</hi> the <hi>Truths</hi> were, the <hi>nobler</hi> careſſes <hi>ſhe</hi> found in the <hi>contemplation</hi> of them. But novv alas! a diſmal <hi>chaos</hi> hath invelop'd the <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding,</hi> yea that <hi>Science,</hi> that vvas ſo <hi>brisk</hi> and <hi>ſparkling</hi> in our <hi>firſt Parents</hi> (and ſhould have been the <hi>inhe<g ref="char:EOLhyphen"/>ritance</hi> of all their <hi>poſterity</hi>) is <hi>utterly</hi> loſt. Our <hi>ignorance</hi> is ſuch, that vve are not able to
+<pb n="112" facs="tcp:97225:64"/>
+               <hi>judge</hi> of ſupernatural <hi>Truths,</hi> and therefore <hi>God</hi> vvill <hi>cure</hi> this <hi>defect</hi> in us by <hi>Divine Illumina<g ref="char:EOLhyphen"/>tion.</hi> He vvill ſet up in our <hi>Souls</hi> the bright Tapers of his <hi>grace,</hi> vvhereby the <hi>fogs</hi> and <hi>miſts</hi> of <hi>Infidelity</hi> ſhall be <hi>diſpell'd,</hi> and ſuch a certainty vvrought in us, as is eſſential to true <hi>Faith.</hi>
+            </p>
+            <p>Thirdly, By <hi>healing</hi> our <hi>Wills.</hi> The <hi>Phyloſopher</hi>'s Maxim is here true, <hi>Corruptio Optimi eſt peſſima:</hi> The <hi>Will</hi> being the ſupreme <hi>fa<g ref="char:EOLhyphen"/>culty</hi> of the <hi>Soul,</hi> had once a natural <hi>power</hi> to <hi>love God,</hi> but being novv <hi>wounded</hi> by <hi>Sin,</hi> the <hi>wounds</hi> in it are of a deadlier na<g ref="char:EOLhyphen"/>ture than thoſe of the other fa<g ref="char:EOLhyphen"/>culties. Thus <hi>Sins</hi> of <hi>Malice</hi> are <hi>deeper wounds</hi> than thoſe of <hi>Infirmity</hi> or <hi>Ignorance,</hi> and there<g ref="char:EOLhyphen"/>fore
+<pb n="113" facs="tcp:97225:64"/>
+one excellently ſaid, <hi>That nothing fri'd ſo much in Hell as the perverſe wills of Men. God</hi> will <hi>heal</hi> this <hi>wounded part</hi> alſo by his <hi>ſupernatural Grace;</hi> for <hi>Grace</hi> hath <hi>fire</hi> for the <hi>Will,</hi> as well as <hi>light</hi> for the <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding.</hi> His <hi>Grace</hi> ſhall ſo <hi>enflame</hi> our <hi>Wills,</hi> that whereas we formerly <hi>affected</hi> no<g ref="char:EOLhyphen"/>thing more than the <hi>Tranſitory</hi> and <hi>earthly fruitions</hi> of this life, <hi>Riches, Honours,</hi> and <hi>Pleaſures;</hi> now we ſhall <hi>love</hi> nothing, <hi>deſire</hi> nothing ſo much as <hi>God</hi> in <hi>Chriſt,</hi> and with St. <hi>Paul, account all things but droſs and dung in compa<g ref="char:EOLhyphen"/>riſon of them.</hi>
+            </p>
+            <p>Fourthly, By <hi>healing</hi> our <hi>con<g ref="char:EOLhyphen"/>ſciences. I will hear and forgive,</hi> &amp;c. In <hi>Scripture</hi>-Language <hi>heal<g ref="char:EOLhyphen"/>ing</hi> of <hi>Sin</hi> and <hi>forgiving</hi> of <hi>Sin,</hi>
+               <pb n="114" facs="tcp:97225:65"/>
+are <hi>aequipollent</hi> terms. So <hi>Jer.</hi> 3.22. <hi>Return ye back-ſliding children, and I will heal your back ſlidings.</hi> Now <hi>God,</hi> when he ſays in my Text, <hi>I will forgive,</hi> ſpeaks to the <hi>con<g ref="char:EOLhyphen"/>ſcience</hi> a <hi>healing</hi> word. <hi>Grace</hi> may <hi>heal</hi> the <hi>ſpots</hi> and <hi>ſtain</hi> of <hi>Sin,</hi> but it cannot <hi>heal</hi> the <hi>guilt.</hi> It is <hi>for<g ref="char:EOLhyphen"/>giveneſs</hi> of <hi>Sin,</hi> muſt take away the <hi>guilt</hi> of <hi>Sin,</hi> and then the <hi>Obligation</hi> to puniſhment <hi>ceaſes.</hi> Thoſe <hi>fears,</hi> which (like ſo many <hi>furies</hi>) continually <hi>tormented</hi> us, ſhall loſe their <hi>ſting,</hi> and be turned into <hi>gladneſs,</hi> when he ſays, <hi>I will forgive.</hi> It is the ſaying of wiſe K. <hi>Solomon, That the Spirit of a Man may bear his Infirmity, but a wounded ſpirit who can bear?</hi> which <hi>words,</hi> though in the garb of a <hi>Queſtion,</hi> yet are to be fil'd in
+<pb n="115" facs="tcp:97225:65"/>
+the number of thoſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (to uſe the Philoſopher's phraſe) <hi>queſtions</hi> which have the energy of <hi>affirmative</hi> and <hi>nega<g ref="char:EOLhyphen"/>tive propoſitions;</hi> ſo that the Senſe is, <hi>No man can bear a woun<g ref="char:EOLhyphen"/>ded Spirit.</hi> And indeed, if we conſider the unſpeakable <hi>tortures</hi> that they <hi>ſuffer,</hi> whoſe <hi>conſcience</hi> is <hi>troubled</hi> and <hi>tempeſtuous,</hi> we muſt needs acknowledge it an <hi>in<g ref="char:EOLhyphen"/>ſupportable burthen.</hi> What great <hi>comfort</hi> then have we in this <hi>pro<g ref="char:EOLhyphen"/>miſe,</hi> that <hi>God will forgive?</hi> that is, not only <hi>efface</hi> and <hi>blot out</hi> the <hi>ſtain,</hi> but <hi>pardon</hi> the <hi>guilt</hi> of <hi>Sin,</hi> which ſo often anticipates <hi>Doomſday,</hi> and begets a <hi>Hell</hi> on <hi>Earth.</hi>
+            </p>
+            <p n="3">3. But thirdly and laſtly, <hi>God will heal us Politically.</hi> When <hi>Sin</hi>
+               <pb n="116" facs="tcp:97225:66"/>
+hath ſo highly <hi>diſtemper'd</hi> a <hi>Na<g ref="char:EOLhyphen"/>tion,</hi> that it is come to the very brink of <hi>deſtruction,</hi> then <hi>God</hi> many times comes with <hi>healing in his wings,</hi> he will make Good that of his <hi>Prophet,</hi>
+               <note place="margin">Jer. 30.17</note> 
+               <hi>They that ſpoil thee, ſhall be a ſpoyl, for I wil reſtore health unto thee, and heal thee of thy wounds;</hi> he that could make the <hi>Aſſyrians level</hi> their <hi>Swords</hi> at one anothers <hi>Breaſts,</hi> can make us <hi>Engliſh-men</hi> (that have been too much in this Caſe <hi>Aſſyrians) ſheath</hi> our <hi>Swords</hi> and run into <hi>mutual embraces.</hi> He ſaid, <hi>By me Kings Reign,</hi> and it is as true, <hi>by me Kings fall.</hi> When he hath a mind to <hi>puniſh</hi> a <hi>Nation</hi> for <hi>Sin,</hi> he many times takes away excellent <hi>Princes,</hi> as he did <hi>Joſiah</hi> and <hi>glorious</hi> CHARLES
+<pb n="117" facs="tcp:97225:66"/>
+the <hi>Firſt.</hi> And when he intends to <hi>heal</hi> a <hi>Nation,</hi> he makes thoſe <hi>animoſities</hi> that begot the firſt <hi>troubles,</hi> the ground of the en<g ref="char:EOLhyphen"/>ſuing <hi>Peace.</hi> For though the <hi>Devil</hi>'s Maxim be, <hi>Divide &amp; im<g ref="char:EOLhyphen"/>pera,</hi> yet <hi>God</hi> can make uſe of it to ſerve his moſt holy intentions. In the <hi>Building</hi> of <hi>Babel</hi> he made <hi>confuſion</hi> of <hi>Languages</hi> the <hi>ruine</hi> of the <hi>work;</hi> and in the <hi>Reſtau<g ref="char:EOLhyphen"/>ration</hi> of <hi>King</hi> CHARLES the <hi>Second,</hi> he made thoſe of <hi>diffe<g ref="char:EOLhyphen"/>rent opinions</hi> and <hi>judgments</hi> in <hi>Re<g ref="char:EOLhyphen"/>ligion,</hi> draw in the ſame Yoke, and as ſubſervient Inſtruments, cauſe that Serenity which we now enjoy. I do not ſpeak this, as if we were now as <hi>well diſci<g ref="char:EOLhyphen"/>plin'd</hi> in the <hi>School</hi> of <hi>Chriſt</hi> as we <hi>ſhould be:</hi> For the truth is,
+<pb n="118" facs="tcp:97225:67"/>
+whatever <hi>ſecular happineſs</hi> we enjoy, yet if we do but reflect on the <hi>malicious deſigns</hi> that are menaged at preſent by thoſe that profeſs <hi>Chriſt,</hi> and the <hi>peaceable</hi> temper which he commanded all good <hi>Chriſtians</hi> to uſe, when he ſaid, <hi>My Peace I leave with you;</hi> we ſhall find the <hi>Kingdome</hi> is ve<g ref="char:EOLhyphen"/>ry <hi>ſick,</hi> and ſtands in need of this <hi>Phyſician;</hi> who can with one word of his Mouth rebuke the <hi>madneſs</hi> of the <hi>people;</hi> who can teach <hi>Prince, Nobility, Clergy,</hi> and <hi>Commons,</hi> their <hi>true Intereſt,</hi> who can make the moſt <hi>inveterat hatreds</hi> end in a <hi>vigorous friend<g ref="char:EOLhyphen"/>ſhip;</hi> and who out of the <hi>leaves</hi> of that <hi>Tree of Life,</hi> that hath <hi>twelve</hi> manner of <hi>fruits,</hi> can make a <hi>Balſam</hi> for the <hi>healing</hi> of
+<pb n="119" facs="tcp:97225:67"/>
+the <hi>Nations.</hi> Upon our <hi>Repen<g ref="char:EOLhyphen"/>tance</hi> he hath promiſed our <hi>Cure,</hi> and he both can and will be as good as his Word.</p>
+            <p>To ſumme up all: Let every one of us here preſent clap his hand upon his <hi>heart,</hi> and not only cry, <hi>I have ſinned:</hi> But by a ſerious <hi>amendment</hi> of <hi>Life,</hi> and humble walking before him, en<g ref="char:EOLhyphen"/>devour as much as we can to be capable of his <hi>healing Influence;</hi> for he that hath promiſed is <hi>God,</hi> all <hi>knowledge</hi> that cannot <hi>erre,</hi> and <hi>God</hi> all <hi>truth</hi> that cannot <hi>Lye,</hi> and we ought to believe him, when he ſays, <hi>If my People which are called by my name, ſhall humble themſelves, and pray, and ſeek my face, and turn from their wicked ways: Then will I
+<pb n="120" facs="tcp:97225:68"/>
+hear from heaven, and will forgive their Sins, and will heal their Land.</hi>
+            </p>
+            <trailer>
+               <hi>FINIS.</hi> 
+               <figure/>
+            </trailer>
+            <pb facs="tcp:97225:68"/>
+         </div>
+      </body>
+   </text>
+</TEI>
